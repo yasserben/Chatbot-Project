@@ -1,4 +1,0 @@
-Summary :
-This is the first tutorial I took to start learning about how Deeppavlov Framework works.
-After reading the cells and running them I made the following remarks:
-  1- To Create an Agent, I must create what we call "PatternSkills"
