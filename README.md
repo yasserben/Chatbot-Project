@@ -1,2 +1,2 @@
 # Chatbot-Project
-Implementing a Chatbot using the Deepavlov Framework
+Implementing a Chatbot using the Deeppavlov Framework
