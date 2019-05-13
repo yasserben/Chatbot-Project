@@ -1,0 +1,4160 @@
+,clean_message,intent
+0,Hi,Default Welcome Intent
+1,suggest some events for tomorrow in Nice,find.event
+2,stop,abandon
+3,find events in mocaco,find.event
+4,Hi,Default Welcome Intent
+5,hi,Default Welcome Intent
+6,find events in Monaco,find.event
+7,november,find.event
+8,how about nice,find.alternatives
+9,and in cannes,find.alternatives
+10,find any activity in monaco,find.activity
+11,I'm looking for kids activity in Monaco,find.activity
+12,what can kids do in Nice,find.alternatives
+13,Hi,Default Welcome Intent
+14,in Nice next month an event to find,find.event
+15,Hi,Default Welcome Intent
+16,Can you give me an hotel nearby railway station,find.accommodation
+17,quelle est la meilleure période pour skier à Auron ?,abandon
+18,Hi,Default Welcome Intent
+19,Hi,Default Welcome Intent
+20,find events in nice,find.event
+21,november,find.event
+22,Hi,Default Welcome Intent
+23,eating,Default Fallback Intent
+24,i'm hungry,leave.negative
+25,fin me a casher restaurant,find.restaurant
+26,find me a casher restaurant,find.restaurant
+27,find me a restaurant,find.restaurant
+28,stop,abandon
+29,find me an event nearby me,find.event
+30,hi,Default Welcome Intent
+31,Hi,Default Welcome Intent
+32,Hey how are you,Default Welcome Intent
+33,how can you help,Default Fallback Intent
+34,?,Default Fallback Intent
+35,hi,Default Welcome Intent
+36,how can you help,Default Fallback Intent
+37,hi,Default Welcome Intent
+38,what will be the weather this evening,find.event
+39,nice,find.event
+40,in monaco,find.alternatives
+41,in nice,find.alternatives
+42,find sports activity in cannes,find.event
+43,this month,find.event
+44,find events in NICE and Cannes this november,find.event
+45,in weekends,find.alternatives
+46,give me a restaurant nearby massena place,find.alternatives
+47,find parks in monaco,find.poi
+48,give me a vegetarian restaurant in nice,find.restaurant
+49,how to go from nice airport to downtown ?,Default Fallback Intent
+50,how to go from the airport to downtown,leave.negative
+51,in nice,find.alternatives
+52,where is the tourist office,Default Fallback Intent
+53,where is the post-office,Default Fallback Intent
+54,where is the railway station ?,Default Fallback Intent
+55,in cannes,find.alternatives
+56,do you understand anything ?,abandon
+57,find museums in Antibes,find.poi
+58,show me an hotel with car park,find.accommodation
+59,nice,find.accommodation
+60,in cannes,find.alternatives
+61,what can i do in NICE,find.alternatives
+62,find all events in grass,find.event
+63,Hi,Default Welcome Intent
+64,grass,find.event
+65,st tropez,find.event
+66,I would like to visit a museum in Cannes,find.poi
+67,in Nice ?,find.alternatives
+68,results are piece of shit,abandon
+69,find some events in St Tropez,find.event
+70,today,find.event
+71,tomorrow,find.alternatives
+72,asshole,leave.negative
+73,next weekend,find.alternatives
+74,next month,find.alternatives
+75,stop,abandon
+76,find some events in Cannes this week,find.event
+77,more,find.more
+78,find some in events in Cannes this month,find.event
+79,more,find.more
+80,fuck you,insult
+81,thank you,leave.positive
+82,see ya,leave.positive
+83,any sports match in cannes,find.event
+84,ok i would like to do some activities in Antibes this weekend something to propose ? ,find.activity
+85,more,find.more
+86,what about Nice ?,find.alternatives
+87,this weekend,find.event
+88,in nice,find.alternatives
+89,in st tropez,find.alternatives
+90,next month,find.alternatives
+91,Im looking for cafe in antibes,find.restaurant
+92,in nice,find.alternatives
+93,in Juan les pin,Default Fallback Intent
+94,juan le pins,Default Fallback Intent
+95,find coffee shops in biot,find.restaurant
+96,in antibes,find.alternatives
+97,in biot,find.alternatives
+98,in valbonne,find.alternatives
+99,find water sports in antibes,find.event
+100,this weekend,find.event
+101,next month,find.alternatives
+102,in nice,find.alternatives
+103,in cannes,find.alternatives
+104,in st tropes,Default Fallback Intent
+105,hi,Default Welcome Intent
+106,find sports events in Nice,find.event
+107,this month,find.event
+108,in cannes,find.alternatives
+109,monaco,find.alternatives
+110,check all events in nice,find.event
+111,this month,find.event
+112,find events in grass,find.event
+113,grasse,find.event
+114,this month,find.event
+115,find some events in Monaco,find.event
+116,this week,find.event
+117,this month,find.alternatives
+118,sports in st tropez,find.alternatives
+119,in nice,find.alternatives
+120,in eze,find.alternatives
+121,in Vence,find.alternatives
+122,today,leave.positive
+123,find events in grasse,find.event
+124,this month,find.event
+125,find church in Antibes,find.poi
+126,Hi,Default Welcome Intent
+127,find wine shops in Antibes,find.shopping
+128,in cannes,find.alternatives
+129,shops in Antibes,find.shopping
+130,in nice,find.alternatives
+131,in cannes,find.alternatives
+132,find shops in Antibes,find.shopping
+133,stop,abandon
+134,find shops in Antibes,find.shopping
+135,any museum in Cannes?,find.poi
+136,and Nice,find.alternatives
+137,hi,Default Welcome Intent
+138,hi,Default Welcome Intent
+139,show events in Nice tomorrow,find.event
+140,Hi,Default Welcome Intent
+141,Hi,Default Welcome Intent
+142,Hi,Default Welcome Intent
+143,I'm looking for events in Cannes,find.event
+144,this weekend,find.event
+145,next weekend,find.alternatives
+146,in nice,find.alternatives
+147,this month,find.alternatives
+148,this weekend,find.alternatives
+149,in monaco,find.alternatives
+150,this month,find.alternatives
+151,show me parks in nice,find.poi
+152,in antibes,find.alternatives
+153,in biot,find.alternatives
+154,museum in grasse,find.poi
+155,in nice,find.alternatives
+156,in antibes,find.alternatives
+157,in cannes,find.alternatives
+158,Hi,Default Welcome Intent
+159,tell me about events in Cannes this week,find.event
+160,find a place to eat near me ,find.event
+161,find events near me,find.event
+162,today,find.event
+163,and in Nice,find.alternatives
+164,find a place to eat near me,find.event
+165,near me,find.event
+166,today,find.event
+167,in Vence ?,find.alternatives
+168,can you give me some concerts in Cannes this month ? ,find.event
+169,find some concerts in Vence this month,find.event
+170,show me event in vence this month,find.event
+171,i would like to do some wetr based activities in Nice,find.activity
+172,stop,abandon
+173,any circuit activities to do in Nice ? ,find.activity
+174,and some fastfoods ?,Default Fallback Intent
+175,find me a fastfood in Nice,find.alternatives
+176,stop,abandon
+177,find me a burger restaurant in Nice,find.restaurant
+178,and around me ?,find.alternatives
+179,i would like to do any activities in St Tropez,find.activity
+180,and in Vence ,find.alternatives
+181,in Puget thénier ?,find.alternatives
+182,in Levens ? ,find.alternatives
+183,so bad,abandon
+184,to do some shopping in Nice,find.alternatives
+185,stop,abandon
+186,can you propose some shops in Nice ? ,find.shopping
+187,to do some shopping in Nice,weather
+188,any faschion shops in Cannes ? ,find.shopping
+189,more,find.more
+190,to do some shopping in Nice,Default Fallback Intent
+191,stop,abandon
+192,to dos some shopping in Nice,Default Fallback Intent
+193,to do some shopping in Nice,Default Fallback Intent
+194,Hi,Default Welcome Intent
+195,is there any event this week end ?,find.event
+196,Auvare,find.event
+197,ok thank you,leave.positive
+198,find some concerts in Nice this weekend,find.event
+199,Hi,Default Welcome Intent
+200,Hi,Default Welcome Intent
+201,Hi,Default Welcome Intent
+202,Hi,Default Welcome Intent
+203,Hi minotour,Default Welcome Intent
+204,yes i'm bored,find.activity
+205,i want to go to paris,find.activity
+206,i want to go there,find.activity
+207,sorry,find.activity
+208,yes,find.activity
+209,nul part,find.activity
+210,i would like to do some shopping in Nice,Default Fallback Intent
+211,shopping in Nice,weather
+212,is there an ATm around me ? ,Default Fallback Intent
+213,local business next to me,Default Fallback Intent
+214,find me a room in Cannes please,find.accommodation
+215,I'm comming to Nice next week and I want to be informed about cultural events during that period,find.event
+216,and a restaurant close to me ? ,find.alternatives
+217,and I want to eat local food !,find.event
+218,Nice,find.event
+219,next week,find.event
+220,Hi,Default Welcome Intent
+221,Hi,Default Welcome Intent
+222,hello,Default Welcome Intent
+223,nothing,abandon
+224,nothing,abandon
+225,nothing,abandon
+226,sure,Default Fallback Intent
+227,Hi,Default Welcome Intent
+228,Hi,Default Welcome Intent
+229,Hi,Default Welcome Intent
+230,Hi,Default Welcome Intent
+231,Hi,Default Welcome Intent
+232,do you speak french?,Default Fallback Intent
+233,Hi,Default Welcome Intent
+234,do you speak french ?,Default Fallback Intent
+235,hello,Default Welcome Intent
+236,what types of concerts do you have ?,find.event
+237,Hi,Default Welcome Intent
+238,Paris ,find.event
+239,find the closest hotel,find.accommodation
+240,paris,find.accommodation
+241,what city ?,find.accommodation
+242,Hi,Default Welcome Intent
+243,you tell me,find.accommodation
+244,Paris ,find.event
+245,Hi,Default Welcome Intent
+246,hello,Default Welcome Intent
+247,nice,find.accommodation
+248,reboot,abandon
+249,concerts in nice,find.event
+250,i need a nice place to spend the weekend,find.event
+251,nice,find.event
+252,Hello,Default Welcome Intent
+253,Sousse,find.event
+254,15h,find.event
+255,concerts ,find.event
+256,want to know all concerts ,find.event
+257,paris ,find.event
+258,give me the list of categories,abandon
+259,paris,find.event
+260,19h,find.alternatives
+261,berlin ,find.event
+262,france,find.event
+263,nice,find.event
+264,alla the day,Default Fallback Intent
+265,Nice,find.event
+266,i want to book a room in hotel,find.accommodation
+267,Paris,find.event
+268,all the day,find.more
+269,Hi,Default Welcome Intent
+270,today,find.event
+271,Nice,find.event
+272,today,find.event
+273,in Paris,find.accommodation
+274,the next week,find.alternatives
+275,Hi,Default Welcome Intent
+276,okay  i want to know to incoming concerts in Nice ,find.event
+277,what's the date of the next concert in nice,find.event
+278,starting from today,find.event
+279,music,find.event
+280,paris,find.event
+281,i do not know exactly,find.event
+282,paris,find.event
+283,paris,find.event
+284,the nex month,find.alternatives
+285,Hi,Default Welcome Intent
+286,Hi,Default Welcome Intent
+287,cote d'azur,find.accommodation
+288,I already noticed that I will come to Nice next week so don't ask me about it again !!,find.activity
+289,where are you from,Default Fallback Intent
+290,events,find.event
+291,cote d'azur,find.event
+292,monaco,find.event
+293,I want to go to paris,Default Fallback Intent
+294,now,find.event
+295,var,find.event
+296,nice,find.accommodation
+297,cannes,find.event
+298,Hi,Default Welcome Intent
+299,this weekend,find.alternatives
+300,next week,find.event
+301,music,find.event
+302,nice,find.event
+303,now,find.event
+304,give me the concerts in Nice next week,find.event
+305,the next week,find.alternatives
+306,Hi,Default Welcome Intent
+307,Hi,Default Welcome Intent
+308,what's up bot,Default Welcome Intent
+309,Hi,Default Welcome Intent
+310,Hi,Default Welcome Intent
+311,hello,Default Welcome Intent
+312,how are you doing?,Default Fallback Intent
+313,how about next week-end?,Default Fallback Intent
+314,what time is it?,Default Fallback Intent
+315,Hi,Default Welcome Intent
+316,all the concerts,find.event
+317,hi,Default Welcome Intent
+318,great,Default Fallback Intent
+319,give me all the events,find.event
+320,hi,Default Welcome Intent
+321,Tunis,find.event
+322,what are the available cities?,find.event
+323,musem in nice,weather
+324,nice,find.alternatives
+325,i like to know more about usa,Default Fallback Intent
+326,find hotel,find.accommodation
+327,nice,find.alternatives
+328,usa,Default Fallback Intent
+329,French Riviera,find.event
+330,Hi,Default Welcome Intent
+331,quit,find.event
+332,paris,find.event
+333,find same musem in nice,Default Fallback Intent
+334,marseille,find.accommodation
+335,museum,find.poi
+336,bye bye,leave.positive
+337,Hi,Default Welcome Intent
+338,tunisia,find.poi
+339,hello,Default Welcome Intent
+340,music,find.event
+341,how can you help,find.event
+342,nice,find.event
+343,paris,find.poi
+344,goodbye,leave.positive
+345,now,find.event
+346,paris,find.poi
+347,find some museum in ince,find.poi
+348,Aiglun ,find.event
+349,usa,find.poi
+350,i want the full list of concerts in Nice ,find.event
+351,i cam to paris next week,find.event
+352,frensh,find.poi
+353,next week,find.event
+354,paris,find.event
+355,nice,find.event
+356,this month,find.event
+357,french,find.poi
+358,concert in nice today,find.event
+359,can you find events in nice for 18/08 to 19/08?,find.event
+360,find some concerts in Nice this weekend,find.event
+361,find some concert in nice this weekend,find.event
+362,monaco,find.alternatives
+363,find me hotel in france,find.accommodation
+364,events in toulouse,find.event
+365,nice,find.accommodation
+366,weather in nice ? ,weather
+367,tunisia,Default Fallback Intent
+368,sousse,Default Fallback Intent
+369,Sousse,Default Fallback Intent
+370,i want the full list of concerts in Nice,find.event
+371,llist of events at nice this week please,find.event
+372,tunsia,Default Fallback Intent
+373,next month,find.event
+374,ok thanks,leave.positive
+375,vinise,Default Fallback Intent
+376,i want the full list of events in Nice,find.event
+377,no i stay to ask more,find.more
+378,restaurant suggestion ?,find.restaurant
+379,Hi,Default Welcome Intent
+380,next week,find.event
+381,Hi,Default Welcome Intent
+382,ok i need more info about Corps sportifs?,Default Fallback Intent
+383,restaurant suggestion in nice ? ,find.alternatives
+384,ok i need more info about Corps sportifs event,find.event
+385,resturant a nice,find.restaurant
+386,Hi,Default Welcome Intent
+387,hey,Default Welcome Intent
+388,nice,find.event
+389,Hi,Default Welcome Intent
+390,what are the events in nice,find.event
+391,ok,Default Fallback Intent
+392,nice,find.restaurant
+393,find a resturant,abandon
+394,from 20/08 to 25/08,find.event
+395,Hello,Default Welcome Intent
+396,next month,find.event
+397,Hi,Default Welcome Intent
+398,what's up,find.poi
+399,hi,Default Welcome Intent
+400,return,find.poi
+401,true,find.poi
+402,find markets,find.shopping
+403,false,find.poi
+404,can,find.shopping
+405,001,find.poi
+406,so i need to know all the events in nice in all time,find.alternatives
+407,i am trying to find a restaurant in Nice,find.restaurant
+408,i want to spend the weekend in nice can you recommend to me the best hotels there?,find.accommodation
+409,Hi,Default Welcome Intent
+410,Hi,Default Welcome Intent
+411,exit,find.poi
+412,I want to reserve tow days in a hotel next week ,find.event
+413,close,find.poi
+414,cannes,find.shopping
+415,nice thanks,find.alternatives
+416,At any restaurant you advise me,find.restaurant
+417,nice,find.event
+418,find food,find.restaurant
+419,paris,Default Fallback Intent
+420,ok,Default Fallback Intent
+421,Hi,Default Welcome Intent
+422,Hi,Default Welcome Intent
+423,cannes,find.restaurant
+424,california,Default Fallback Intent
+425,in nice,find.alternatives
+426,not hotels but restaurant ,find.accommodation
+427, find some concerts in Nice this sunday,find.event
+428, French Rivieral,Default Fallback Intent
+429, French Riviera,Default Fallback Intent
+430,goodbye,leave.positive
+431,Nice,find.accommodation
+432, French Rivierl,Default Fallback Intent
+433,At any hotel you advise me in nice ? ,find.accommodation
+434, French Rivie,Default Fallback Intent
+435,i will,leave.negative
+436,what to do?,Default Fallback Intent
+437,find some hôtel nearby me,find.alternatives
+438,hotels in nice,find.accommodation
+439, I want to book a room at the hotel,find.accommodation
+440,is there any nice places to visit in Nice ?,Default Fallback Intent
+441,Historical and Cultural Sites,Default Fallback Intent
+442,stop,abandon
+443,Hello,Default Welcome Intent
+444,help me please,Default Fallback Intent
+445,find some concerts in Nice this weekend ,find.event
+446,the link to kyriad hotel is not working,find.accommodation
+447,Hi,Default Welcome Intent
+448,what is my location now,find.alternatives
+449,i woold like find some concerts in Nice this weekend,find.event
+450,find some concerts in Nice this week,find.event
+451,i want to have the list of concerts in Nice this weekend?,find.event
+452,weather paris ,Default Fallback Intent
+453,Is there any interesting events in Cannes this weekend ?,find.event
+454,at nice please,find.alternatives
+455,is there any music?,find.event
+456,so in the nex week,find.alternatives
+457,Bairols ,find.event
+458,weather nice ,find.alternatives
+459,can you suggest me the best places to visit in Nice ?,Default Fallback Intent
+460,bot you are stupid,Default Fallback Intent
+461,and for the next week,find.alternatives
+462,next week,find.event
+463,events,find.event
+464,is there any restaurant in nice,find.restaurant
+465,i woold like find some concerts in Nice next weekend,find.event
+466,find somme music events in Aspremont for next week,find.event
+467,the city is nice,find.alternatives
+468,Hi,Default Welcome Intent
+469,nd somme music events in Aspremont for any date,find.event
+470,i woold like find some concerts in Nice from 01/08/2018 to 31/08/2018,find.event
+471,find some concerts in Nice this weekend,find.event
+472,Aspremont ,find.event
+473,what is the weather in nice?,weather
+474,next year,find.event
+475,is there any hotel nearby me?,find.accommodation
+476,what are the nearest restaurants to kyriad hotel?,find.restaurant
+477,i woold like find some concerts in Antibe ,find.event
+478,Hi,Default Welcome Intent
+479,this month,find.event
+480,nice,find.restaurant
+481,hello ,Default Welcome Intent
+482,reboot,abandon
+483,find some concerts in Nice for the next weekend,find.event
+484,nice,find.event
+485,find some concerts in Nice this weekend),find.event
+486,sport activitries,find.event
+487,ok thank you,leave.positive
+488,i woold like find some concerts in PACA this month,find.alternatives
+489,is there any hotel in Nice?,find.accommodation
+490,this year,find.event
+491,What are the best restaurants in Cannes ?,find.restaurant
+492,Aiglun,find.event
+493,the cheapest restaurants in paris,find.restaurant
+494,find some concerts in Paris this weekend,find.alternatives
+495,this weekend,find.event
+496,hi MinoTour can you show me all the hotels closest to my current location ,find.accommodation
+497,no i still need your help,Default Fallback Intent
+498,Hi,Default Welcome Intent
+499,i woold like find some concerts in Cannes this month,find.event
+500,i want 3 rooms in paris next week,find.event
+501,what about Paris ?,Default Fallback Intent
+502,can u suggest me the place to visit at monaco ,find.alternatives
+503,ok,Default Fallback Intent
+504,paris,find.event
+505,it's ok,Default Fallback Intent
+506,Tourtour,find.restaurant
+507,nice,find.event
+508,can u suggest me the best place to visit at monaco,find.alternatives
+509,ouki,Default Fallback Intent
+510,are there any events this weekend,find.alternatives
+511,good,Default Fallback Intent
+512,nearby hotels in Paris?,find.accommodation
+513,there is some concerts in Nice this weekend ?,find.event
+514,Nice please ,find.accommodation
+515,what time is it,Default Fallback Intent
+516,Sport activities in Monaco  this week,find.activity
+517,the cheapest restaurants in Tourtour,find.restaurant
+518,list of hotels in Paris ?,find.accommodation
+519,i said Paris,find.accommodation
+520,Paris,find.accommodation
+521,is there a good place to visite,find.activity
+522,Marseille,find.accommodation
+523,and in cannes ?,find.alternatives
+524,find some hotels near to nice ,find.accommodation
+525,thanks a lot ,leave.positive
+526,stop,find.accommodation
+527,is there a good place to visite in nice,find.activity
+528,??,Default Fallback Intent
+529,and in Antibes,find.alternatives
+530,hello,Default Welcome Intent
+531,find food in nice,find.restaurant
+532,weather nice,find.alternatives
+533,you can give me the names of museums in nice ?,find.poi
+534,hey bot are you here,find.alternatives
+535,what is Nice best known for ?,find.alternatives
+536,i want to have spa in Cannes,find.activity
+537,ok,Default Fallback Intent
+538,no,Default Fallback Intent
+539,no,Default Fallback Intent
+540,any awsome places in nice ?,Default Fallback Intent
+541,stop,abandon
+542,in Andon,find.alternatives
+543,find me concerts in any place,find.event
+544,can you help me to find the cheapest hotel through this list ,find.accommodation
+545,you can give me the names festivales in Nice ?,find.alternatives
+546,places,Default Fallback Intent
+547,next month,find.alternatives
+548,events,find.event
+549,which places can i visit at cote d'azur ,Default Fallback Intent
+550,events,find.event
+551,next year,find.alternatives
+552,you can choose it for me ,find.event
+553,Nice,find.accommodation
+554,nice,find.event
+555,all cities,find.event
+556,concert,find.event
+557,paris,find.event
+558,nice,find.event
+559,music events in nice,find.event
+560,Monaco,find.event
+561,what are cool restaurants in monaco?,find.restaurant
+562,8 Aout,find.activity
+563,next week,find.event
+564,Le Cannet-des-Maures ,find.event
+565,ok thanks,leave.positive
+566,hotels in Saint-Paul,find.accommodation
+567,this year,find.event
+568,hello,Default Welcome Intent
+569,ok thanks a lot nice to talk to you ,find.alternatives
+570,can you give me the names of restaurants in Nice,find.restaurant
+571,in nice,find.alternatives
+572,where can i go this weekend,find.event
+573,What places can I visit in Monaco this sunday?,find.alternatives
+574,i want to make reservation,Default Fallback Intent
+575,États-Unis,Default Fallback Intent
+576,hôtels in Montauroux,find.alternatives
+577,any nice events ?,find.alternatives
+578,help,Default Fallback Intent
+579,Activities ,find.activity
+580,Activities ,find.activity
+581,is there any Metallica Concert in Nice ?,find.event
+582, what are the cities that belong to Côte d’Azur,Default Fallback Intent
+583,Hi,Default Welcome Intent
+584,hello!,Default Welcome Intent
+585,Hi,Default Welcome Intent
+586,nice and expencive places ,find.alternatives
+587,and can you give me the best restaurant on this list ?,find.restaurant
+588,train ,Default Fallback Intent
+589,cheapest,Default Fallback Intent
+590,what activities are available in monaco this week?,find.activity
+591,list of event at lyon,find.event
+592,show me the activities in Aspremont ,find.activity
+593,Nice,find.restaurant
+594,nice place,Default Fallback Intent
+595,I'm looking for events in Nice,find.event
+596,cheap,Default Fallback Intent
+597,events,find.event
+598,paris,Default Fallback Intent
+599,Monaco,find.alternatives
+600,next week,find.event
+601,category events,find.event
+602,i need the best of this list,Default Fallback Intent
+603,kan,Default Fallback Intent
+604,Events in Nice this week-end,find.alternatives
+605,paris,find.event
+606,vestifal,Default Fallback Intent
+607,nice,find.event
+608,vestifal,Default Fallback Intent
+609,Cagnes-sur-Mer ,find.event
+610,lyon,find.event
+611,lyon,find.event
+612,the best places in Nice ,find.alternatives
+613,this tow years,find.alternatives
+614,i said the city is lyon,find.event
+615,party,Default Fallback Intent
+616,There is some concert in Nice this week ?,find.event
+617,today,find.event
+618,cannes,find.event
+619,i want to know where the best party,Default Fallback Intent
+620,this year,find.alternatives
+621,tomorrow,find.event
+622,awsome events,find.event
+623,Any good markets in Cannes to visit during the weekend ?,find.alternatives
+624,find some concerts in Nice this weekend,find.event
+625,nice events,find.event
+626,awsome events,find.event
+627,Find some concerts in Nice this weekend,find.event
+628,awsome,find.event
+629,find Cannes,find.alternatives
+630,find hotel ,find.accommodation
+631,afternoon,find.event
+632,paris,find.accommodation
+633,paris,find.accommodation
+634,paris,find.accommodation
+635,There is some good restaurants overthere ?,find.restaurant
+636,loop,Default Fallback Intent
+637,foreach events echo id,find.event
+638,Cannes,find.restaurant
+639,Stop,find.accommodation
+640,while(1){echo 'true';},find.alternatives
+641,Reboot,abandon
+642,what is going on?,leave.negative
+643,find hotel,find.accommodation
+644,paris,find.accommodation
+645,hello,Default Welcome Intent
+646,Monaco,find.alternatives
+647,find hotel in paris,find.accommodation
+648,reboot,abandon
+649,i can ask questino,Default Fallback Intent
+650,can i ask you a question,Default Fallback Intent
+651,by the way you already informed me about weather several times !!,Default Fallback Intent
+652,what can i ask you,Default Fallback Intent
+653,ok,Default Fallback Intent
+654,Where should i go to do some sightseeing in Nice?,find.alternatives
+655,Where can i do a shopping ?,Default Fallback Intent
+656,in need to khow all restaurants nearby me,find.restaurant
+657,what places could I visit in Nice,find.alternatives
+658,find a good restaurant in nice ,find.restaurant
+659,Hi,Default Welcome Intent
+660,I want to do a shopping,abandon
+661,shopping,Default Fallback Intent
+662,nice,find.restaurant
+663,Finds markets,find.shopping
+664,Cannes,find.shopping
+665,where can i eat the best pizza in nice ??,find.event
+666,today,find.event
+667,sighseeing and place to visit,Default Fallback Intent
+668,show me map of nice,Default Fallback Intent
+669,i'm looking for sighseeing,find.more
+670,.,Default Fallback Intent
+671,where can i go tonight ?,find.alternatives
+672,no,Default Fallback Intent
+673,find me a cheap hotel in nice,find.accommodation
+674,stop,abandon
+675,when will be the next concert  ? ,find.event
+676,nice,find.event
+677,Any good nightclubs in Cannes?,find.activity
+678,tomorrow,find.event
+679,find me a Jazz Restaurants in nice,find.restaurant
+680,Hi,Default Welcome Intent
+681,Hi,Default Welcome Intent
+682,can i go out tonight ?,find.alternatives
+683,.,Default Fallback Intent
+684,stop,abandon
+685,show me restaurants in Antibes ,find.restaurant
+686,any suggestions for tonight?,find.alternatives
+687,hey mino,Default Welcome Intent
+688,stop,abandon
+689,find some concerts in Nice this weekend,find.event
+690,romantic events,find.event
+691,nice,find.event
+692,is there an event tonight in Cannes ?,find.event
+693,tonight,find.event
+694,where can i get chineese food in beausoleil,find.restaurant
+695,shopping,Default Fallback Intent
+696,culturelle,Default Fallback Intent
+697,cultural events,find.event
+698,hotels,find.accommodation
+699,nice,find.event
+700,and next week ?,find.alternatives
+701,tomorrow,find.event
+702,nice,find.accommodation
+703,and this month ?,find.alternatives
+704,what places could I visit in Nice,find.alternatives
+705,where is the apple store in nice ? ,find.alternatives
+706,when is the next concept in Bouyon ? ,find.alternatives
+707,and next month ?,find.alternatives
+708,which restaurant you recommend near to Hôtel De France ?,find.alternatives
+709,bonjour,Default Welcome Intent
+710,and next year ?,find.alternatives
+711,nothing special,abandon
+712,Hi,Default Welcome Intent
+713,what do you want me to do?,Default Fallback Intent
+714,give me romantic events,find.event
+715,where is Monaco located?,Default Fallback Intent
+716,nice,find.event
+717,tonight,find.event
+718,Where is Monaco?,Default Fallback Intent
+719,where can I find some Water Sports ?,find.event
+720,Cannes,find.event
+721,any time ?,Default Fallback Intent
+722,find some concerts in Nice this weekend,find.event
+723,and any time ?,Default Fallback Intent
+724,today,find.event
+725,find cultural events,find.event
+726,this weekend,find.alternatives
+727,and 08/06/2019 ?,find.alternatives
+728,find some concerts in Nice this weekend,find.event
+729,bye,leave.positive
+730,reboot,abandon
+731,and next week,find.alternatives
+732,rebot ,Default Fallback Intent
+733, find some restaurant nearby me ,find.alternatives
+734,hello,Default Welcome Intent
+735,what places could I visit in Nice,find.alternatives
+736,reboot,abandon
+737,find sports room in Cannes,find.event
+738,robot ,Default Fallback Intent
+739,this month,find.event
+740,gym,Default Fallback Intent
+741,reboot,abandon
+742,what's your name,Default Fallback Intent
+743,find best restaurant in Nice,find.restaurant
+744,At any bar you advise me in nice ?,find.restaurant
+745,weather in Nice this weekend,find.alternatives
+746,what places could I visit in Nice ?,find.alternatives
+747,places in Nice,find.alternatives
+748,?,Default Fallback Intent
+749,hotels,find.accommodation
+750,At any super marcket you advise me in nice ?,weather
+751,nice,find.accommodation
+752,bars,find.restaurant
+753,At any supermarket you advise me in nice ?,weather
+754,nice,find.restaurant
+755,shoppig,Default Fallback Intent
+756,shopping,Default Fallback Intent
+757,I would to get some souvenirs,leave.negative
+758,I want to bye some gifts,leave.positive
+759,I want to buy some gifts,Default Fallback Intent
+760,yo,Default Welcome Intent
+761,shoppin center,Default Fallback Intent
+762,shopping center,Default Fallback Intent
+763,i want to know the best places in Nice,Default Fallback Intent
+764,shops,find.shopping
+765,give me the best place in Nice,Default Fallback Intent
+766,nice,find.shopping
+767,list of places in nice,Default Fallback Intent
+768,lists of ffod in nice,Default Fallback Intent
+769,list of restaurant in nice,find.restaurant
+770,local businnesses,Default Fallback Intent
+771,weather,Default Fallback Intent
+772,nice,find.alternatives
+773,bye,leave.positive
+774,thanks,leave.positive
+775,yes,Default Fallback Intent
+776,no,Default Fallback Intent
+777,Minou Tour,find.activity
+778,Marsseil,find.activity
+779,where can i eat in Monaco,find.event
+780,today,find.event
+781,list of Shopping  in nice,find.alternatives
+782,is there any opened restaurant today in monaco?,find.alternatives
+783,i need list of shopping and not restaurant ,find.restaurant
+784,in nice,find.alternatives
+785,i dont need this list,Default Fallback Intent
+786,you speak frensh ?,Default Fallback Intent
+787,it's a question,Default Fallback Intent
+788,by,Default Fallback Intent
+789,good by ,Default Fallback Intent
+790,ciao,Default Fallback Intent
+791,Hi,Default Welcome Intent
+792,nice,Default Fallback Intent
+793,Nice,Default Fallback Intent
+794,Shopping nice,Default Fallback Intent
+795,museaum,Default Fallback Intent
+796,museum,find.poi
+797,paris,find.poi
+798,Shops in Nice,find.shopping
+799,ok,find.poi
+800,paris,find.poi
+801,paris,find.poi
+802,concert,find.event
+803,paris,find.poi
+804,and in Cannes,find.alternatives
+805,fuck,insult
+806,and in Anibes,Default Fallback Intent
+807,concert a paris,find.event
+808,give me some restaurant in paris?,find.restaurant
+809,in nice ,find.restaurant
+810,find some hôtel nearby me,Default Fallback Intent
+811,I am in nice,weather
+812,find some hôtel nearby me,Default Fallback Intent
+813,Hi,Default Welcome Intent
+814,Hi,Default Welcome Intent
+815,i'd like to eat fish tonight,find.event
+816,NICE,find.event
+817,today at 20:00,find.event
+818,hello,Default Welcome Intent
+819,i want to know the place in Nice ,Default Fallback Intent
+820,list of places in Nice,Default Fallback Intent
+821,list of restaurant in Nice,find.restaurant
+822,goob by,Default Fallback Intent
+823,TEst 1 : Demande pour manger du Poisson ce soir = il cherche dans la table food events ce qui est bizarre,find.alternatives
+824,Test 2 : Les meilleurs night clubs à Antibes,find.alternatives
+825,The best night clubs in Antibes,find.alternatives
+826,rent a car,Default Fallback Intent
+827,Renting a car,Default Fallback Intent
+828,i want to rent a car in Menton,find.alternatives
+829,Activity with my kids nearby,find.activity
+830,I want a boat ride,Default Fallback Intent
+831,Hi,Default Welcome Intent
+832,goodmorning,Default Fallback Intent
+833,good morning,find.event
+834,goood mmorning,find.event
+835,nice,find.event
+836,Could you find some hotel around me ?,find.accommodation
+837,i would like to do sport in Antibes,find.event
+838,today,find.event
+839,Hi,Default Welcome Intent
+840,eat something ,find.event
+841,Biot,find.event
+842,August 6 2018 ,find.event
+843,nearest beach ,find.poi
+844,Nice,find.poi
+845,Cannes,find.alternatives
+846,Where can i eat in Nice ? ,find.event
+847,August 6 2018,find.event
+848,restaurant in nice,find.alternatives
+849,food events in Nice for this week end ,find.event
+850,where can i sleep in Cannes ? ,find.alternatives
+851,hotel,find.accommodation
+852,nice,find.accommodation
+853,Shopping in Nice,find.alternatives
+854,Tourism in Nice,find.alternatives
+855,Hotel in Cannes,find.accommodation
+856,Hotel in Antibes,find.accommodation
+857,Tourist office in Nice,find.alternatives
+858,Concert in Nice,find.alternatives
+859,Concert in Cannes,find.alternatives
+860,find some concerts in Nice this Weekend ,find.event
+861,Cap3000,Default Fallback Intent
+862,where can i eat some sushi in Nice ? ,find.event
+863,Ths weekend,find.event
+864,Show me restaurants in Antibes,find.restaurant
+865,Show me events in Nice this week end,find.event
+866,show me the nearest beach from biot ,find.poi
+867,Place to visit in Nice,find.alternatives
+868,show me places to visit in nice,find.alternatives
+869,What are the best places to visit in nice ? ,find.alternatives
+870,find some restaurant nearby me ,find.alternatives
+871,Show me beach ,find.poi
+872,Nice,find.poi
+873,find me any portuguese restaurant in Nice,find.restaurant
+874,in cagnes sur mer,Default Fallback Intent
+875,stop,abandon
+876,hi,Default Welcome Intent
+877,find some events in Nice,find.event
+878,this week,find.event
+879,I would like a climbing activity in saint martin vésubie,find.activity
+880,i need a doctor near my place,Default Fallback Intent
+881,i need a doctor,Default Fallback Intent
+882,i need a doctor,Default Fallback Intent
+883,doctor,Default Fallback Intent
+884,Which places to visit tomorrow,find.event
+885,NICe,find.event
+886,i want to find a bike rental in NICe for tomorrow,find.activity
+887,is it going to rain tomorrow ?,find.alternatives
+888,Where is located the tourist information desk in the city ?,Default Fallback Intent
+889,office of tourism ?,Default Fallback Intent
+890,where can i buy bus tickets ?,Default Fallback Intent
+891,are you alive ???,Default Fallback Intent
+892,ok you know what?,abandon
+893,diner with my wife tonight,find.restaurant
+894,no places on the french riviera it amazing,find.restaurant
+895,Hi,Default Welcome Intent
+896,Hi,Default Welcome Intent
+897,Hi,Default Welcome Intent
+898,i want you to look for category hotels,find.accommodation
+899,nice,find.accommodation
+900,i'd like to find activities to do on the sea,find.activity
+901,what ?,find.activity
+902,you first ask me a question and then tell me that you didn't find without leaving me time to answer ........,find.alternatives
+903,Find events in biot today,find.event
+904,in cannes,find.alternatives
+905,in grasse,find.alternatives
+906,in nice,find.alternatives
+907,find all activity in nice,find.activity
+908,in cannes,find.alternatives
+909,what can i do in st tropez,find.alternatives
+910,restaurants in NICE,find.alternatives
+911,what can i do in valbonne,find.alternatives
+912,events in valbonne,find.alternatives
+913,what can i do in valbonne,find.alternatives
+914,activity in valbonne,find.activity
+915,what can i do in grasse,find.alternatives
+916,activity in grasse,find.activity
+917,sports activity in grass,find.activity
+918,grasse,find.activity
+919,water sports in st tropez,find.event
+920,today,find.event
+921,cannes,find.alternatives
+922,museums in grasse,find.poi
+923,cafe in grasse,find.alternatives
+924,i want to reach the port,Default Fallback Intent
+925,restaurants in grasse,find.alternatives
+926,cafe in antibes,find.alternatives
+927,restaurants in antibes,find.alternatives
+928,opening hours of chagal museum,find.poi
+929,nice,find.poi
+930,rent a car,Default Fallback Intent
+931,boat trip,Default Fallback Intent
+932,boat trip,Default Fallback Intent
+933,best scuba diving places,find.activity
+934,snorkling,find.activity
+935,Aquaparks,find.activity
+936,best parks,find.poi
+937,NICE,find.poi
+938,private beaches,find.poi
+939,Antibes,find.poi
+940,Hi,Default Welcome Intent
+941,restaurants in Grasse,find.restaurant
+942,i need a guide,Default Fallback Intent
+943,stop,find.restaurant
+944,restaurants in Grasse,find.restaurant
+945,i need help,Default Fallback Intent
+946,Grasse,find.restaurant
+947,where is Cannes,find.alternatives
+948,any local restaurants where ta have diner in Grasse ? ,find.restaurant
+949,cafe in nice,find.restaurant
+950,NICE,find.restaurant
+951,cafe in antibes,find.alternatives
+952,cafe in grasse,find.alternatives
+953,and what about asian restaurants in Cannes ?,find.restaurant
+954,in Nice then ? ,find.alternatives
+955,hotels in grasse,find.accommodation
+956,find me restaurants in Cannes,find.restaurant
+957,place to stay in antibes,find.alternatives
+958,find stuff,Default Fallback Intent
+959,Nice,Default Fallback Intent
+960,Hi,Default Welcome Intent
+961,where can i eat in st traopez,find.event
+962,st tropez,find.event
+963,today,find.event
+964,place to eat in st tropez,find.event
+965,today,find.event
+966,more,Default Fallback Intent
+967,find me restaurants in Cannes,find.restaurant
+968,more,find.more
+969,I would like to have diner with my wife and kids in an asian restaurant in Nice,find.restaurant
+970,what is happening in nice today,find.alternatives
+971,ok let's find a pizza restaurant in Nice then,find.restaurant
+972,I want to do activity in nice,find.activity
+973,what about in Antibes ?,find.alternatives
+974,great and before I would like to take a drink in a Bar,find.restaurant
+975,Antibes,find.restaurant
+976,and after we would like to dance in a club in Cannes if possible,find.alternatives
+977,show activities in Nice,find.activity
+978,Hi,Default Welcome Intent
+979,yes can you talk me about museum ?,find.poi
+980,Cannes,find.poi
+981,okay maybe you can find museum in south of france ?,find.poi
+982,nice,find.poi
+983,okay nice thanks,find.alternatives
+984,tell me something about you,Default Fallback Intent
+985,why sky is blue ?,Default Fallback Intent
+986,no problem,Default Fallback Intent
+987,don't worry no preblem,Default Fallback Intent
+988, are there any concerts planned,find.event
+989,Antibes,find.event
+990,8 august,find.event
+991,what can i do in Antibes ?,find.alternatives
+992,what can i do ?,Default Fallback Intent
+993,yes,Default Fallback Intent
+994,tell me what can i do,Default Fallback Intent
+995,no,Default Fallback Intent
+996,nope,Default Fallback Intent
+997,okay,Default Fallback Intent
+998,stop,abandon
+999,find activities,find.activity
+1000,Antibes,find.activity
+1001,,Default Welcome Intent
+1002,,Default Welcome Intent
+1003,,Default Welcome Intent
+1004,,Default Welcome Intent
+1005,,Default Welcome Intent
+1006,,Default Welcome Intent
+1007,,Default Welcome Intent
+1008,,Default Welcome Intent
+1009,,Default Welcome Intent
+1010,,Default Welcome Intent
+1011,,Default Welcome Intent
+1012,,Default Welcome Intent
+1013,,Default Welcome Intent
+1014,,Default Welcome Intent
+1015,,Default Welcome Intent
+1016,,Default Welcome Intent
+1017,,Default Welcome Intent
+1018,,Default Welcome Intent
+1019,,Default Welcome Intent
+1020,ind me a halal restauran,find.restaurant
+1021,ic,find.restaurant
+1022,ind me a casher restauran,find.restaurant
+1023,his evening in nic,find.alternatives
+1024,nywhere you hav,find.restaurant
+1025,he weather display is boring ..,find.more
+1026,ind me a snack nearby modern art museum in nic,find.poi
+1027,an you ON TIME find me something useful ,Default Fallback Intent
+1028,an you ON TIME find me something useful ,Default Fallback Intent
+1029,ou're a sily chatbo,abandon
+1030,ou're a sily chatbo,abandon
+1031,here is the tourist office of canes-sur-mer ,Default Fallback Intent
+1032,here is the tourist office of canes-sur-mer ,Default Fallback Intent
+1033,here is located the tourist office of cagnes-sur-Mer ,find.alternatives
+1034, don't care about restaurants ,find.restaurant
+1035,rrr,find.restaurant
+1036,to,find.restaurant
+1037,to,find.restaurant
+1038,here is located the tourist office of cagnes-sur-Mer ,find.alternatives
+1039,to,abandon
+1040,to,abandon
+1041,hat to visit in Antibe,find.alternatives
+1042,hat to do in Antibes ,find.alternatives
+1043,hat are the museums of Nic,find.poi
+1044,hat to do in nice when it rains ,find.alternatives
+1045,hat to do in nice in 4 hours tim,find.alternatives
+1046,here is bendejun ,find.alternatives
+1047,ow to go to blausasc ,find.alternatives
+1048,here is the central bus station of cannes ,find.alternatives
+1049,o you know villefranche-sur-mer ,find.alternatives
+1050,how me aspremon,find.alternatives
+1051,here to practice scuba diving ,find.activity
+1052,here to practice golf ,find.activity
+1053,hat is the phone number of restaurant la petite maison in nic,find.restaurant
+1054,hen Valberg will be open for skiing ,find.activity
+1055,ow to go to villefranche-sur-mer ,Default Fallback Intent
+1056,ow to go to villefranche-sur-mer ,Default Fallback Intent
+1057,u bu,Default Fallback Intent
+1058,u bu,Default Fallback Intent
+1059,y bu,Default Fallback Intent
+1060,y bu,Default Fallback Intent
+1061,hat to do by foot in 3 hours time in nice ,find.activity
+1062,ow much time does it take to go from nice airport to downtow,find.activity
+1063,ive me sightseeing tours in monac,find.activity
+1064,ow cost nice airport transfert to downtow,find.alternatives
+1065,hat to do in juan-les-pins this evenin,find.alternatives
+1066,ans,Default Fallback Intent
+1067,ans,Default Fallback Intent
+1068,here to danse in juan-les-pins ,find.alternatives
+1069,lubbing in Jean-les-pin,Default Fallback Intent
+1070,lubbing in Jean-les-pin,Default Fallback Intent
+1071,lubbing in juan-les-pin,find.alternatives
+1072,here is the mama,Default Fallback Intent
+1073,here is the mama,Default Fallback Intent
+1074,ama,Default Fallback Intent
+1075,ama,Default Fallback Intent
+1076,atisse museum ,find.poi
+1077,ic,find.poi
+1078,here is galerie des ponchettes in nice ,find.alternatives
+1079,how me the places to dans,Default Fallback Intent
+1080,how me the places to dans,Default Fallback Intent
+1081,how me what to do this evening in nic,find.activity
+1082,ell me what to do this night in nic,find.activity
+1083,s the any modern art museum in nice ,find.poi
+1084,s there any modern art museum in nice ,find.poi
+1085,s there any museum in villefranche-sur-mer ,find.poi
+1086,ist me the restaurants of villefranche-sur-me,find.restaurant
+1087, told yo,find.restaurant
+1088,illefranche-sur-me,find.restaurant
+1089,useum,find.poi
+1090,illefranche-sur-me,find.poi
+1091,t is not raining in villefranche-sur-me,find.alternatives
+1092,how me places to visit in Ando,find.alternatives
+1093,anne,find.alternatives
+1094,n canne,find.alternatives
+1095,eaulieu-sur-me,find.alternatives
+1096,how me the places to visit in Monac,find.alternatives
+1097,how me the places to visit in canne,find.alternatives
+1098,how me the places to visit in beaulie,find.more
+1099,to,abandon
+1100,to,abandon
+1101,how me the places to visit in villefranche-sur-me,find.alternatives
+1102,hat to visit in villefranche-sur-me,find.alternatives
+1103,lateau de caussol,Default Fallback Intent
+1104,lateau de caussol,Default Fallback Intent
+1105,argemo,Default Fallback Intent
+1106,argemo,Default Fallback Intent
+1107,argemo,find.alternatives
+1108,here practice sports in la croix-flamer ,find.event
+1109,a roquette-sur-siagn,find.event
+1110,oda,find.event
+1111,,Default Welcome Intent
+1112,,Default Welcome Intent
+1113,,Default Welcome Intent
+1114,,Default Welcome Intent
+1115,i what can you do,Default Fallback Intent
+1116,i what can you do,Default Fallback Intent
+1117,eather,Default Fallback Intent
+1118,eather,Default Fallback Intent
+1119,,Default Welcome Intent
+1120,,Default Welcome Intent
+1121,ind some concert in Nice this weeken,find.event
+1122,ind a hotel near m,find.accommodation
+1123,i minotou,Default Welcome Intent
+1124,i minotou,Default Welcome Intent
+1125, want to find bike locatio,Default Fallback Intent
+1126, want to find bike locatio,Default Fallback Intent
+1127,ike locatio,Default Fallback Intent
+1128,ike locatio,Default Fallback Intent
+1129,ik,Default Fallback Intent
+1130,ik,Default Fallback Intent
+1131,rave,Default Fallback Intent
+1132,rave,Default Fallback Intent
+1133,inem,find.event
+1134,ic,find.event
+1135,omorro,find.event
+1136,ell me the weather in Canne,weather
+1137,hat time is it ,Default Fallback Intent
+1138,hat time is it ,Default Fallback Intent
+1139,hat time is it ,Default Fallback Intent
+1140,hat time is it ,Default Fallback Intent
+1141,o sorr,Default Fallback Intent
+1142,o sorr,Default Fallback Intent
+1143,ka,Default Fallback Intent
+1144,ka,Default Fallback Intent
+1145,,Default Welcome Intent
+1146,,Default Welcome Intent
+1147,inotour ,Default Fallback Intent
+1148,inotour ,Default Fallback Intent
+1149,our nam,Default Fallback Intent
+1150,our nam,Default Fallback Intent
+1151,i minotou,Default Welcome Intent
+1152,i minotou,Default Welcome Intent
+1153, want to do spor,find.event
+1154,anne,find.event
+1155,omorro,find.event
+1156, want to eat some foo,find.event
+1157,oulo,find.event
+1158,anne,find.event
+1159,n two day,find.event
+1160,here can i eat ice ,find.event
+1161,ntibe,find.event
+1162,omorro,find.event
+1163,here can i find a restaurent ,Default Fallback Intent
+1164,here can i find a restaurent ,Default Fallback Intent
+1165,here can i find restaurant ,find.restaurant
+1166,ntibe,find.restaurant
+1167,'m bac,abandon
+1168,'m bac,abandon
+1169, don't know where is the cinema in Canne,find.event
+1170,omorro,find.event
+1171,,Default Welcome Intent
+1172,,Default Welcome Intent
+1173,,Default Welcome Intent
+1174,,Default Welcome Intent
+1175,ind hotels in antibe,find.accommodation
+1176,,Default Welcome Intent
+1177,,Default Welcome Intent
+1178,ind events in nic,find.event
+1179,oda,find.event
+1180,ind activity in NIC,find.activity
+1181,,Default Welcome Intent
+1182,,Default Welcome Intent
+1183,ind some hotel in cannes this weeken,find.event
+1184,hat can i do in canne,weather
+1185,,Default Welcome Intent
+1186,,Default Welcome Intent
+1187,hat can i do in canne,weather
+1188,,Default Welcome Intent
+1189,,Default Welcome Intent
+1190,how me all the events in canne,find.event
+1191,his mont,find.event
+1192,how mor,find.more
+1193,ome mor,find.more
+1194,n NIC,find.alternatives
+1195,how mor,find.more
+1196,nything els,find.more
+1197,ctivity in canne,find.activity
+1198,useum in st trope,find.poi
+1199,n bio,find.alternatives
+1200,n valbonn,find.alternatives
+1201,n antibe,find.alternatives
+1202,hank you,leave.positive
+1203,hank you,leave.positive
+1204,y,leave.positive
+1205,y,leave.positive
+1206,hat can i do in nice this decembe,find.alternatives
+1207,ny activity in nic,find.activity
+1208,how activity for kids in nic,find.activity
+1209,,Default Welcome Intent
+1210,,Default Welcome Intent
+1211,el,Default Fallback Intent
+1212,el,Default Fallback Intent
+1213,an you help me ,Default Fallback Intent
+1214,an you help me ,Default Fallback Intent
+1215,oncer,find.event
+1216,ic,find.event
+1217,,Default Welcome Intent
+1218,,Default Welcome Intent
+1219,ext wee,find.event
+1220,,Default Welcome Intent
+1221,,Default Welcome Intent
+1222,hat do you suggest me to do in NIC,Default Fallback Intent
+1223,hi,Default Welcome Intent
+1224,hey i'm back,Default Fallback Intent
+1225,stop,abandon
+1226,Hi,Default Welcome Intent
+1227,Hi,Default Welcome Intent
+1228,check for events in biot,find.event
+1229,check for events in biot for today,find.event
+1230,in st tropez,find.alternatives
+1231,in antibes,find.alternatives
+1232,in cannes,find.alternatives
+1233,events for kinds,find.event
+1234,events for kids,find.event
+1235,nice,find.event
+1236,this month,find.event
+1237,Hi,Default Welcome Intent
+1238,football,find.event
+1239,Nice,find.event
+1240,this month,find.event
+1241,opera,Default Fallback Intent
+1242,Where can I go to the opera?,Default Fallback Intent
+1243,concert,find.event
+1244,Nice,find.event
+1245,August,find.event
+1246,Hi,Default Welcome Intent
+1247,hi,Default Welcome Intent
+1248,i want to have lunch,find.restaurant
+1249,nice,find.restaurant
+1250,i want to go dancing tonight,find.alternatives
+1251,Hi,Default Welcome Intent
+1252,show events in Nice ,find.event
+1253,next week,find.event
+1254,show restaurants nearby,find.restaurant
+1255,nearby,find.restaurant
+1256,nearby,find.restaurant
+1257,stop,abandon
+1258,show restaurants nearby,find.restaurant
+1259,nearby,find.restaurant
+1260,Hi,Default Welcome Intent
+1261,Hi,Default Welcome Intent
+1262,Hi,Default Welcome Intent
+1263,look for events in nice for this weekend,find.event
+1264,and in cannes,find.alternatives
+1265,next month,find.alternatives
+1266,in st tropez,find.alternatives
+1267,cafe in st tropez,find.restaurant
+1268,in antibes,find.alternatives
+1269,in biot,find.alternatives
+1270,find activity in valbone,find.activity
+1271,valbonne,find.activity
+1272,in nice,find.alternatives
+1273,in grasse,find.alternatives
+1274,what can kids do in nice,find.alternatives
+1275,find kids activity in nice,find.activity
+1276,looking for an accommodation in nice,find.accommodation
+1277,in cannes,find.alternatives
+1278,i need to go shopping in nice,find.alternatives
+1279,shopping in nice,find.alternatives
+1280,shopping in cannes,find.alternatives
+1281,events in biot on 25th august,find.event
+1282,what can i do in st tropez,find.alternatives
+1283,show more ,find.more
+1284,anything to do in nice,find.alternatives
+1285,what is happening in nice today,find.alternatives
+1286,show more,find.more
+1287,more,find.more
+1288,show me museums in St tropez,find.poi
+1289,in biot,find.alternatives
+1290,golf clubs in biot,find.alternatives
+1291,find golf club in nice,find.alternatives
+1292,im bored,abandon
+1293,Hi,Default Welcome Intent
+1294,Hello,Default Welcome Intent
+1295,I would like to have dinner in Nice,find.restaurant
+1296,Could you suggest an activity in Nice?,find.activity
+1297,Lunch in Paris,find.restaurant
+1298,You're an idiot,Default Fallback Intent
+1299,shut up,insult
+1300,Idiot,insult
+1301,fuck off,insult
+1302,Are there any parks nearby,find.poi
+1303,Are there any parks nearby,find.poi
+1304,Football court in Nce,find.event
+1305,Nice,find.event
+1306,today,find.event
+1307,Hi,Default Welcome Intent
+1308,Hi,Default Welcome Intent
+1309,Hi,Default Welcome Intent
+1310,Hi,Default Welcome Intent
+1311,Hi,Default Welcome Intent
+1312,discover Nice,discover.city
+1313,Hi,Default Welcome Intent
+1314,hi,Default Welcome Intent
+1315,hi,Default Welcome Intent
+1316,find events in nice,find.event
+1317,today,find.event
+1318,cafe in nice,find.alternatives
+1319,find cafe in nice,find.restaurant
+1320,find coffee shops in cannes,find.restaurant
+1321,find restaurants in NICE,find.restaurant
+1322,in cannes,find.alternatives
+1323,antibes,find.alternatives
+1324,find events in cannes,find.event
+1325,this weekend,find.event
+1326,find accommodation in NICE this weekend,find.alternatives
+1327,place to stay in nice,find.alternatives
+1328,ok thanks a lot nice to talk to you,leave.positive
+1329,hi,Default Welcome Intent
+1330,Hi,Default Welcome Intent
+1331,hi,Default Welcome Intent
+1332,show me events in Cannes this week,find.event
+1333,cafes,find.restaurant
+1334,cannes,find.restaurant
+1335,show me place to stay in NICE,find.alternatives
+1336,show me museums in NICE ,find.poi
+1337,show me museums in Antibes,find.poi
+1338,events in grasse,find.alternatives
+1339,show me events in St tropez for this month,find.event
+1340,Hi,Default Welcome Intent
+1341,Hi,Default Welcome Intent
+1342,hi i'm looking for an hotel nearby,find.accommodation
+1343,check for activities ,find.activity
+1344,nice,find.activity
+1345,museums in nice,find.poi
+1346,Hi,Default Welcome Intent
+1347,Hi,Default Welcome Intent
+1348,Hi,Default Welcome Intent
+1349,skiing in valberg,find.activity
+1350,valberg,find.activity
+1351,Cannes,find.activity
+1352,can you give me a vegetarian restaurant,find.restaurant
+1353,nice,find.restaurant
+1354,give me a 4* hotel  nearby railway station,find.alternatives
+1355,Is MAMAC museum in Nice open on sunday ?,find.poi
+1356,what is the temperature in valberg tomorrow,find.alternatives
+1357,what will be the temperature in valberg tomorrow,find.alternatives
+1358,give me the list of art galeries in Nice,find.activity
+1359,what to do tomorrow in antibes ?,find.alternatives
+1360,what to do tomorrow morning in antibes ?,find.alternatives
+1361,where to rent a motorcycle in Nice ?,find.alternatives
+1362,how visit grasse ?,find.alternatives
+1363,how visit grasse ?,find.alternatives
+1364,how to visit grasse ?,find.alternatives
+0,Hi,Default Welcome Intent
+1,hello,Default Welcome Intent
+2,Restaurants ,find.restaurant
+3,Nice,find.address
+4,Restaurants in Nice,find.restaurant
+5,Hi,Default Welcome Intent
+6,Hi hw can you help me ?,find.generic
+7,yes,Default Fallback Intent
+8,ok can you show me events around Nice please ? ,find.event
+9,tomorrow,find.event
+10,reboot,abandon
+11,i would like musical events located in Cannes,find.event
+12,hmm this weekend ? ,find.event
+13,this month,find.alternatives
+14,this year,find.alternatives
+15,ok let's display cultural events then,find.event
+16,Cannes,find.event
+17,this month,find.event
+18,check music events in Nice this year,find.event
+19,check for cultural activities in Cannes,find.activity
+20,check for hotels around me,find.accommodation
+21,check for hotels around me,find.accommodation
+22,check for hotels in Antibes,find.accommodation
+23,check for hotels in Antibes,find.accommodation
+24,reboot,abandon
+25,check for hotels around me,find.accommodation
+26,check for hotels around me,find.accommodation
+27,show me entertainment activities ,find.activity
+28,Nice,find.address
+29,i would like to eat in an asian restaurant,find.restaurant
+30,Nice,find.address
+31,reset,abandon
+32,I would like to eat in an asian restaurant,find.restaurant
+33,nice,find.address
+34,show me asian restaurant in Nice,find.restaurant
+35,show me restaurant in Nice,find.restaurant
+36,show me italian restaurant in Nice ,find.restaurant
+37,where can i eat in St Tropez ? ,find.restaurant
+38,this is great is there any activities to do in St Tropez after our meal ? ,find.activity
+39,ok thank you ! maybe there is an an event to see after this ? ,find.event
+40,St Tropez,find.event
+41,next week,find.event
+42,show me events in St Tropez this year,find.event
+43,Hi ! I would like to do great outdoor activities in Nice could you advice ? ,find.activity
+44,great after this i would love to eat in an italien restaurant in Nice,find.restaurant
+45,Thank you ! and is there any event this evening ?,find.event
+46,Nice,find.address
+47,is there any events this evening in Nice ? ,find.event
+48,what is your name ? ,Default Fallback Intent
+49,tell me a joke,Default Fallback Intent
+50,show me hotels in Nice,find.accommodation
+51,show me hotels in Nice,find.accommodation
+52,"Also i would like a better hotel than mine, could you show me other hotels in Nice? ",find.accommodation
+53,"Also i would like a better hotel than mine, could you show me other hotels in Nice? ",find.accommodation
+54,Hi,Default Welcome Intent
+55,Hi,Default Welcome Intent
+56,Hi ! I would like to do great outdoor activities in Nice could you advice ple,find.activity
+57,and in St Tropez ? ,find.alternatives
+58,And in Cannes ?,find.alternatives
+59,great after this i would love to eat in an italian restaurant in Nice,find.restaurant
+60,Hi,Default Welcome Intent
+61,find events around me for tomorrow,find.event
+62,what about next week,Default Fallback Intent
+63,find events for next week around me,find.event
+64,find activities in Nice tomorrow,find.activity
+65,reboot,abandon
+66,Hi could you show me events around me this month ? ,find.event
+67,show me events near Nice,find.event
+68,this week,find.event
+69,could you show me music events this year ?,find.event
+70,Nice,find.event
+71,could you show me music events in Nice this year ? ,find.event
+72,could you show me restaurant ?,find.restaurant
+73,Nice,find.restaurant
+74,show me activities in Nice,find.activity
+75,show me events in Nice this month,find.event
+76,show me events on next sunday,find.event
+77,Nice,find.event
+78,show me events on next wednesday,find.event
+79,Nice,find.event
+80,more,find.more
+81,more,find.more
+82,show me events next saturday in Nice,find.event
+83,show me events on sunday in Nice,find.event
+84,more,find.more
+85,Hi,Default Welcome Intent
+86,Hi Minotour ! ,Default Welcome Intent
+87,how can you help me ? ,find.generic
+88,I would like to do great outdoor activities in Nice could you advice please ? ,find.activity
+89,and in St Tropez ? ,find.alternatives
+90,great after this I would love to eat in an Italian restaurant in Nice,find.restaurant
+91,great after this i would love to eat in an italien restaurant in Nice,find.restaurant
+92,Thank you ! And is there any events this evening in Cannes ?,find.event
+93,"Also i would like a better hotel than mine, could you show me other hotels in Nice?",find.accommodation
+94,Thank you ! And is there any events this evening in Nice ?,find.event
+95,and tomorrow evening ?,find.alternatives
+96,and tomorrow evening in Cannes ?,find.alternatives
+97,and in St Tropez ? ,find.alternatives
+98,Hi,Default Welcome Intent
+99,Hi,Default Welcome Intent
+100,Hi ,Default Welcome Intent
+101,Hi,Default Welcome Intent
+102,Hi ! I would like to do great outdoors activities in Nice could you give me advices please ? ,find.activity
+103,and in St Tropez ? ,find.alternatives
+104,And in Cannes ? ,find.alternatives
+105,Great ! after this i Would love to eat in an italian restaurant in Nice,find.restaurant
+106,great after this i would love to eat in an italien restaurant in Nice,find.restaurant
+107,great after this i would love to eat in an italian restaurant in Nice,find.restaurant
+108,great after this i would love to eat in a romantic restaurant in Nice,find.restaurant
+109,great after this i would love to eat in a french restaurant in Nice,find.restaurant
+110,great after this i would love to eat in an asian restaurant in Nice,find.restaurant
+111,great after this i would love to eat in a mexican restaurant in Nice,find.restaurant
+112,great after this i would love to eat in a good restaurant in Nice,find.restaurant
+113,Hi,Default Welcome Intent
+114,Hi ! I would like to do great outdoors activities in Nice,find.activity
+115,and in St Tropez ? ,find.alternatives
+116,and in Cannes ? ,find.alternatives
+117,great ! after this i would like to eat in a good restaurant in Nice,find.restaurant
+118,Thak you ! and is there any events this evening in Nice ? ,find.event
+119,and tomorrow evening in Cannes ? ,find.alternatives
+120,"Also I would like a better hotel than mine, could you show me other hotels in Nice ? ",find.accommodation
+121,Hi,Default Welcome Intent
+122,Hi ! I would like to do great outdoors activities in Nice,find.activity
+123,and in St Tropez ? ,find.alternatives
+124,Hi,Default Welcome Intent
+125,Hi ! I would like to do great outdoor activities in Nice,find.activity
+126,and in St Tropez ? ,find.alternatives
+127,and In Cannes ?,find.alternatives
+128,great after this i would like to eat in a good restaurant in Nice,find.restaurant
+129,Thank you ! and is there any event this evening in Nice ? ,find.event
+130,more,find.more
+131,and tomorrow evening in Cannes ? ,find.alternatives
+132,"Also I would like a better hotel than mine, could you show me other hotels in Nice ?",find.accommodation
+133,Nice,
+134,show me vets in Neath,
+135,today,
+136,can you give me a conversations nearby,
+137,give me vent in nice night,
+138,today,
+139,Hi,Default Welcome Intent
+140,show me events in Nice next week,find.event
+141,tonight,
+142,Hi,Default Welcome Intent
+143,show events in Nice for tomorrow,find.event
+144,Hi,Default Welcome Intent
+145,find events in Nice for Wednesday 9 January 2019,find.event
+146,find music events in 2019,find.event
+147,Nice,find.event
+148, find music events in Nice for 2019,find.event
+149,find music events in Nice for 2019,find.event
+150,Hi,Default Welcome Intent
+151,music events in Nice this month,find.event
+152,show me mussical events in Cannes this month,find.event
+153,could you show me concerts in Cannes this month,find.event
+154,music festivals in Nice this month,find.event
+155,Hi,Default Welcome Intent
+156,Hi ! I would like to do great outdoor activities in Nice today?,find.activity
+157,and in ST Tropez ?,find.alternatives
+158,And in Cannes? ,find.alternatives
+159,Great ! after this i would like to eat in a good restaurant in Nice,find.restaurant
+160,Thank you ! And is there any musical events this evening in Nice ? ,find.event
+161,Thank you ! And is there any musical events this week-end in Nice ?,find.event
+162,this weekend,find.event
+163,and tomorrow evening in Cannes ?,find.alternatives
+164,also I would like a better hotel than mine could you show me other hotels in Nice ? ,find.accommodation
+165,Hi I would like to do outdoors activities in Nice today,find.activity
+166,and in St Tropez ?,find.alternatives
+167,and in Cannes ?,find.alternatives
+168,Great ! after this i would like to eat in a good restaurant in Nice,find.restaurant
+169,Thak you ! and is there any musicl events in Nice this weekend ?,find.event
+170,Hi,Default Welcome Intent
+171,Hi,Default Welcome Intent
+172,Hi ! I would like to do outdoor activities in Nice today,find.activity
+173,Hi,Default Welcome Intent
+174,Hi ! I would like to do outdoor activities in Nice today,find.activity
+175,and in Cannes ?,find.alternatives
+176,and in St Tropez ?,find.alternatives
+177,Great ! after this I would like to eat in a good restaurant in Nice,find.restaurant
+178,Thank you ! and are there any musical events in Nice this weekend ? ,find.event
+179,and tomorrow in Cannes ?,find.alternatives
+180,"Also I would like a better hotel than mine, could you show me other hotels in Nice please ? ",find.accommodation
+181,Hi,Default Welcome Intent
+182,I would like to see great events ,find.event
+183,Cannes,find.event
+184,Hi,Default Welcome Intent
+185,Is the road open to go to auron station ? ,access_to_auron_station
+186,how many slopes are opened ? ,slopes
+187,great can you check events in Auron ? ,find.event
+188,Tonight ! ,find.event
+189,this month,find.alternatives
+190,Hi,Default Welcome Intent
+191,Hi ! Is the road to Auron open ? ,access_to_auron_station
+192,Great ! and how many slopes are availables?,slopes
+193,and what is the weather today ? ,weather
+194,show me the direction from Nice to Auron please,itinerary_to_auron_station
+195,do i need chains for wheels to go to Auron ? ,special_equipments
+196,what are the packages offered in Auron station ? ,tariffs_and_package
+197,how many lifts are open ? ,ski_lifts_ski_area
+198,How is the snow at the Auron station?,state_of_snow
+199,Hi,Default Welcome Intent
+200,Hi Minotour ! Is the road to auron open?,access_to_auron_station
+201,Great! how many slopes are availables ?,slopes
+202,Thank you! and how many lifts are open please?,ski_lifts_ski_area
+203,And how is the snow at the Auron station?,state_of_snow
+204,Hi,Default Welcome Intent
+205,Hi,Default Welcome Intent
+206,Hi,Default Welcome Intent
+207,hello,Default Welcome Intent
+208,I want activities,find.activity
+209,Hello zakaria ,Default Welcome Intent
+210,I want activities,find.activity
+211,nice,find.activity
+212,Nice,find.activity
+213,I am muslim,leave.negative
+214,I don't drink,Default Fallback Intent
+215,Makanchrabchi,Default Fallback Intent
+216,Hi,Default Welcome Intent
+217,Hi,Default Welcome Intent
+218,Hi,Default Welcome Intent
+219,Hi,Default Welcome Intent
+220,wha are the events in Nice ?,find.event
+221,this week,find.event
+222,and in Cannes ?,find.alternatives
+223,thank you !! and what about hotels around me,find.accommodation
+224,Hi,Default Welcome Intent
+225,I would like to know events in Nice,find.event
+226,tomorrow,find.event
+227,and in Cannes ?,find.alternatives
+228,Hi,Default Welcome Intent
+229,Hi ,Default Welcome Intent
+230,I would like events around me,find.event
+231,today,find.event
+232,bike rental in cannes,find.activity
+233,Hi,Default Welcome Intent
+234,how is the road to Auron station?,access_to_auron_station
+235,find tariffs of Auron station,tariffs_and_package
+236,show slopes in Auron station,slopes
+237,is there snow in Auron station,state_of_snow
+238,hi,Default Welcome Intent
+239,hi,Default Welcome Intent
+240,auron,find.address
+241,etat des routes sur auron,access_to_auron_station
+242,les pistes sont ouvertes,Default Fallback Intent
+243,tes con,find.restaurant
+244,tu es trop con,find.restaurant
+245,les pîstes de ski,find.activity
+246,mofjhemfijhn,find.activity
+247,reset,find.activity
+248,reboot,find.activity
+249,nice,find.activity
+250,les pistes d'aurin sont ouvertes,find.restaurant
+251,pas nice auron,find.alternatives
+252,est ce que les pistes sont ouvertes a auron,find.alternatives
+253,auron,find.alternatives
+254,les pistes a auron,find.alternatives
+255,quoi ???,abandon
+256,je veux aller a auron,find.alternatives
+257,auron,find.alternatives
+258,et dieu troncy tu connais,find.alternatives
+259,et donc cela fonctionne ??????,Default Fallback Intent
+260,je veux aller a auron,find.alternatives
+261,et paris,Default Fallback Intent
+262,jhiljbfzijbfp fhpeuihfiuzjhbfz,Default Fallback Intent
+263,test en ligne,Default Fallback Intent
+264,pourquoi pas aller a auron,find.alternatives
+265,auron,find.alternatives
+266,je souhaite aller a auron,find.alternatives
+267,aller a auron,find.alternatives
+268,meteo auron,find.alternatives
+269,comment aller a auron ?,find.alternatives
+270,auron,find.alternatives
+271,i want to go to auron,find.alternatives
+272,moi vouloir aller auron,find.alternatives
+273,auribeau sur siagne,find.alternatives
+274,i want to surf,Default Fallback Intent
+275,yes et what do you do ?,Default Fallback Intent
+276,you are so pretty,leave.negative
+277,yes i want to go to auron,find.alternatives
+278,you sêak english?,Default Fallback Intent
+279,et donc,Default Fallback Intent
+280,tu parles français,Default Fallback Intent
+281,en fait tu fonctionnes pas et tu n'y comprends rien,find.alternatives
+282,au top ,abandon
+283,auron,find.alternatives
+284,auron station ski,find.activity
+285,c'est auron pas auribeau,find.alternatives
+286,auron ski activites,find.alternatives
+287,reset,Default Fallback Intent
+288,donc ?*,Default Fallback Intent
+289,feùfkjoezmifnomezijékf,Default Fallback Intent
+290,Hi,Default Welcome Intent
+291,Hello j want to go to auron,find.address
+292,Have you some snow ,state_of_snow
+293,How many tracks are open,slopes
+294,J want à bedroom for 2 nights,find.accommodation
+295,Auron,find.accommodation
+296,Hi,Default Welcome Intent
+297,what's the itinerary to Auron station?,Default Fallback Intent
+298,give me the route to auron station,itinerary_to_auron_station
+299,give me the route to auron station,itinerary_to_auron_station
+300,what equipments do I need for auron station?,itinerary_to_auron_station
+301,what equipments do I need for auron station?,itinerary_to_auron_station
+302,Give me. The hôtel list,Default Fallback Intent
+303,Liste of the hotels,find.accommodation
+304,Hotels list in auron,find.accommodation
+305,What activities in auron,find.activity
+306,What u,leave.negative
+307,What is the weather tomorow ,find.alternatives
+308,How is the road tomorow morning,find.poi
+309,Auron,find.poi
+310,Quel temps demain à auron,find.generic
+311,Météo auron demain,slopes
+312,Liste des hôtels à auron,find.accommodation
+313,Pas Auribeau sur saignement mais auron,find.alternatives
+314,Chambres disponibles à auron,find.accommodation
+315,what's the itinerary to Auron station?,Default Fallback Intent
+316,stop,leave.negative
+317,what's the itinerary to Auron station?,Default Fallback Intent
+318,what's the itinerary to Auron station?,itinerary_to_auron_station
+319,my position,itinerary_to_auron_station
+320,what's the itinerary to Auron station?,itinerary_to_auron_station
+321,Hi,Default Welcome Intent
+322,what is the whether in auron,discover.city
+323,find me an hotline nice near railway station,Default Fallback Intent
+324,hotel,find.address
+325,find me an hotel in nice near railway station,find.accommodation
+326,what to do  tomorrow in french riviera,find.alternatives
+327,what to do,find.generic
+328,how to go to cannes,find.address
+329,what to do in antibes,find.generic
+330,food,find.restaurant
+331,next events in nice,find.event
+332,in february,find.event
+333,quelle est la hauteur de neige à auron ?,state_of_snow
+334,comment se rendre à valberg,Default Fallback Intent
+335,comment se rendre à Auron,Default Fallback Intent
+336,how togo to Auron,find.address
+337,how to go to auron,find.address
+338,horaires d'ouvertures des pistes àAuron,Default Fallback Intent
+339,timetable of skylights in Auron,Default Fallback Intent
+340,timetable of skilifts in auron,Default Fallback Intent
+341,schedules of lifts in auron,ski_lifts_ski_area
+342,should we put chains to go up to auron tonight,special_equipments
+343,doit-on mettre des chaines pour monter à auron ce soir,special_equipments
+344,what are the prices of ski pass in auron,tariffs_and_package
+345,events in Auron,find.event
+346,today,find.event
+347,find me an hotel in auron,find.accommodation
+348,what to do in auron this month,find.alternatives
+349,what to do in auron this month,find.alternatives
+350,Hi,Default Welcome Intent
+0,Hi,Default Welcome Intent
+1,je veux aller à auron,find.generic
+2,oui,Default Fallback Intent
+3,je suis intéressé,abandon
+4,hebergement,Default Fallback Intent
+5,restauration à auron,find.restaurant
+6,hebergement à auron,find.alternatives
+7,ce ne sont pas des hotels,find.accommodation
+8,je repete auron,find.alternatives
+9,et on recommence,find.accommodation
+10,i want to go to auron,find.alternatives
+11,where is auron,find.address
+12,how can i go to auron,find.alternatives
+13,can i go by train,find.generic
+14,events,find.event
+15,to morrow,find.event
+16,le systeme est bloqué,Default Fallback Intent
+17,activités demain,Default Fallback Intent
+18,activities tomorow,find.activity
+19,auron,find.activity
+20,je veux aller à nice,find.alternatives
+21,un hotel sur nice,find.accommodation
+22,events in nice tomorow,find.event
+23,i want to go in nice by train,find.alternatives
+24,i want to go in nice by car,find.alternatives
+25,how can i go to nice,find.alternatives
+26,mauvaise reponse,Default Fallback Intent
+27,bad answer,leave.negative
+28,je veux aller à nice en train,find.alternatives
+29,je te demande l'heure tu me repond mercredi,find.restaurant
+30,tu es loin de fonctionner correctement,find.restaurant
+31,auron,find.restaurant
+32,ça va va j'arrete pour le moment,find.alternatives
+33,Hi,Default Welcome Intent
+34,bonjour,Default Welcome Intent
+35,les pistes d'auron sont ouvertes ?,Default Fallback Intent
+36,quelles pistes ouvertes sur auron,discover.city
+37,tu connais auron,insult
+38,ok mais je souhaite un pro,Default Fallback Intent
+39,meteo auron,slopes
+40,miracle !,Default Fallback Intent
+41,donc quelles sont les pistes ouvertes a auron,find.generic
+42,les pistes de ski,find.activity
+43,donc je souhaite un hotel a auron,find.accommodation
+44,tu connais auron c 'est juste un projet que l'on a depuis 6 mois !,find.alternatives
+45,le top ,Default Fallback Intent
+46,donc je souhaite savoir les piostes ouvertes a auron,find.alternatives
+47,antibes,find.alternatives
+48,pistes de ski sur auron ?,find.activity
+49,le toip,Default Fallback Intent
+50,tu comprends rien,abandon
+51,je souhaite savoir si les pistes de ski d'auron sont ouvertes,find.activity
+52,ok et sur antibes,find.alternatives
+53,ok je loue un velo pour aller a auron,find.alternatives
+54,piste de ski,find.activity
+55,auron,find.activity
+56,meteo auron aujourd'hui,slopes
+57,etat des routes pour acceder à auron,access_to_auron_station
+58,neige t il en ce moment ?,state_of_snow
+59,faut il mettre les chaines ?,special_equipments
+60,a partir d'ou ?,Default Fallback Intent
+61,ou faut il merre les chaines,special_equipments
+62,equipements spéciaux ou ?,special_equipments
+63,meteo demain,Default Fallback Intent
+64,weather forcast tomorow,weather
+65,quel temps demain à auron,find.generic
+66,je veux connaitre la météo demain à auron,Default Fallback Intent
+67,les routes sont elles glissantes pour monter à auron ?,access_to_auron_station
+68,ou,find.restaurant
+69,c;est pas ma question etat des routes pour aller à auron,access_to_auron_station
+70,quelles pistes sont ouvertes,Default Fallback Intent
+71,auron meteo aujourd'hui,find.alternatives
+72,neige t;il a auron maintenant,state_of_snow
+73,quel temps à auron aujourd'hui,find.alternatives
+74,combien de pistes ouvertes aujourd'hui,find.alternatives
+75,how many slopes open to day,slopes
+76,how to go to auron,find.address
+77,quel temps à auron?,find.generic
+78,restauration,find.restaurant
+79,hebergement,Default Fallback Intent
+80,hotels,find.accommodation
+81,appartements,find.accommodation
+82,location meublée,Default Fallback Intent
+83,meteo auron,find.alternatives
+84,quel temps à auron ?,find.alternatives
+85,comment aller à auron,find.alternatives
+86,de mieux en mieux,abandon
+87,du ski,Default Fallback Intent
+88,quelle route pour aller à auron,access_to_auron_station
+89,combien de temps pour aller en voiture à auron,find.alternatives
+90,etat de la route pour aller à auron,access_to_auron_station
+91,acces dégagé sur toute la route,access_to_auron_station
+92,how long by car for going to auron,find.alternatives
+93,snow to day inauron ?,state_of_snow
+94,the weather tomorow,find.alternatives
+95,events in auron today,find.event
+96,tomorow,find.alternatives
+97,the next week,find.alternatives
+98,the prices for the skipass,Default Fallback Intent
+99,Hi,Default Welcome Intent
+100,Hi,Default Welcome Intent
+101,Hi,Default Welcome Intent
+102,Hi,Default Welcome Intent
+103,Hi,Default Welcome Intent
+104, Chat us thé Road to Auron,access_to_auron_station
+105,Height snow Auron,state_of_snow
+106,Température Auron ,slopes
+107,Hi,Default Welcome Intent
+108,Hello,Default Welcome Intent
+109,Les routes sont elles dégagées sur auron ?,access_to_auron_station
+110,Et le temps?,Default Fallback Intent
+111,Météo sur auron ?,discover.city
+112,??,Default Fallback Intent
+113,Mrtro,Default Fallback Intent
+114,Meteo,Default Fallback Intent
+115,Hi,Default Welcome Intent
+116,auron,find.address
+117,what is the road for going to auron ?,access_to_auron_station
+118,how is the road for going to auron,access_to_auron_station
+119,where we need the spécials equipements,Default Fallback Intent
+120,what is the weather forcast foe tomorow,weather
+121,meteo auron demain,slopes
+122,combien de temps pour aller à auron,Default Fallback Intent
+123,un hotel à auron,find.accommodation
+124,un resto à auron,find.restaurant
+125,un appartement en location à auron,find.accommodation
+126,ski pass price in auron,tariffs_and_package
+127,how many slopes are open to day,slopes
+128,appartements disponibles en location,find.accommodation
+129,in auron,find.alternatives
+130,how is the road for going to auron,access_to_auron_station
+131,where,find.address
+132,quels evenements à auron aujourd'hui,find.alternatives
+133,avenements à auron,find.alternatives
+134,c'est quoi ça ?,abandon
+135,en m'indiquant les evenements demain à auron,find.alternatives
+136,ca deconne completermentj'arrete,abandon
+137,evenements demain auron,find.alternatives
+138,de mieux en mieux,abandon
+139,dormir à auron,find.accommodation
+140,manger à auron,find.restaurant
+141,evenements à auron,find.alternatives
+142,cinema à auron,find.event
+143,demain,find.event
+144,la semaine prochaine,find.alternatives
+145,le mois prochain,find.alternatives
+146,piscine à auron,find.activity
+147,mairie d'auron,find.alternatives
+148,etat de la route pour aller à auron,access_to_auron_station
+149,meteo auron,find.alternatives
+150,what is the weather to morrow,Default Fallback Intent
+151,meteo demain auron,find.alternatives
+152,temperatures demain auron,find.alternatives
+153,how long for going to auron by car from my place,find.poi
+154,ca va,Default Fallback Intent
+155,ca va j'arrète,leave.positive
+156,meteo in auron today,find.generic
+157,activities in auron today,find.activity
+158,snow in auron today,find.alternatives
+159,weather forcast in auron today,find.alternatives
+160,etat de la route pour auron aujourd'hui,access_to_auron_station
+161,quelles pistes sont ouvertes,Default Fallback Intent
+162,how many slopes are open to day,slopes
+163,hauteur de neige,state_of_snow
+164,etat des pistes,Default Fallback Intent
+165,etat des pistes à auron,find.alternatives
+166,hotel ,find.accommodation
+167,hotel à auron,find.accommodation
+168,location appartements in auron,find.accommodation
+169,meteo à auron,find.alternatives
+170,que faire aujourd'hui à auron ?,find.alternatives
+171,ou manger à auron,find.restaurant
+172,ou dormir à auron,find.accommodation
+173,parking à auron,find.alternatives
+174,toujours aussi performant,Default Fallback Intent
+175,ca c'est surc'est bien le problème,abandon
+176,je me le demande,abandon
+177,Hi,Default Welcome Intent
+178,I would like to see musical events in Cannes next week,find.event
+179,Tonight,
+180,Hi,Default Welcome Intent
+181,bonjour,Default Welcome Intent
+182,je souhaite aller a auron,Default Fallback Intent
+183,je veux faire du ski,Default Fallback Intent
+184,quelles sont les pistes ouvertes,Default Fallback Intent
+185,auron,find.address
+186,the road is open,access_to_auron_station
+187,et la météo,Default Fallback Intent
+188,meteo ,Default Fallback Intent
+189,wheather,Default Fallback Intent
+190,sun,Default Fallback Intent
+191,weather,weather
+192,auron,find.address
+193,weather,weather
+194,??,Default Fallback Intent
+195,planté ?,Default Fallback Intent
+196,Hi,Default Welcome Intent
+197,what to do in Auron ?,find.generic
+198,events,find.event
+199,events,find.event
+200,today,find.event
+201,Hi,Default Welcome Intent
+202,What can I do in Auron next week?,find.generic
+203,events,find.event
+204,next week,find.event
+205,what about next month?,find.alternatives
+206,Hi,Default Welcome Intent
+207,bonjourje veux aller à auron,Default Fallback Intent
+208,hello j want to go to auron,find.address
+209,yes how can i go to auron,find.address
+210,what is the weather ,weather
+211,one hotel in auron today,find.accommodation
+212,a room in auron today,find.accommodation
+213,what kind of event to day,find.event
+214,what kind of event to day in auron,find.event
+215,today,find.event
+216,this week,find.alternatives
+217,this month,find.alternatives
+218,what kind of activities today,find.activity
+219,je veux aller à auron,find.alternatives
+220,what do you have avalable to morrow in auron,find.alternatives
+221,je cherche un hotel,find.accommodation
+222,auron,find.accommodation
+223,quel temps fait il à auron demain,find.alternatives
+224,what do you know on auron,discover.city
+225,it's very bad,leave.negative
+226,let's go again,find.generic
+227,what do yoi have on the events,find.event
+228,to day,find.event
+229,pas de reponse,abandon
+230,je veux skier  à auron demain,find.alternatives
+231,quelles pistes sont ouvertes,Default Fallback Intent
+232,quelles pistes de ski sont ouvertes demain,find.activity
+233,in auron,find.alternatives
+234,j'arrète impossible d'avoir une information pertinante,find.activity
+235,Hi,Default Welcome Intent
+236,what to do,find.generic
+237,fin d me an hôtel near railway station,find.alternatives
+238,how to go to cannes,find.address
+239,quelle est la hauteur de neige à auron,state_of_snow
+240,what to do in auron this month,find.generic
+241,events,find.event
+242,this month,find.event
+243,Hi,Default Welcome Intent
+244,donne moi des événements à Auron pour le mois prochain,find.event
+245,Hi,Default Welcome Intent
+246,i want some informations on auron,discover.city
+247,you know where is auron,find.address
+248,wha,Default Fallback Intent
+249,what kind of activities you have in auron,find.activity
+250,hotels in auron,find.accommodation
+251,find events in Nice,find.event
+252,minotour ne repond plus J-C,Default Fallback Intent
+253,que comprends tu ?,abandon
+254,Hi,Default Welcome Intent
+255,Hi,Default Welcome Intent
+256,hello,Default Welcome Intent
+257,hi,Default Welcome Intent
+258,road in auron,find.poi
+259,etat des routes a auron,access_to_auron_station
+260,meteo auron,find.alternatives
+261,weather forecast,Default Fallback Intent
+262,hotel trois etoiles auron,find.accommodation
+263,Hi,Default Welcome Intent
+264,Hi,Default Welcome Intent
+265,Bonjour,Default Welcome Intent
+266,quel événement il y a à Auron ?,find.event
+267,quel événement il y a à Auron ?,find.event
+268,Hi,Default Welcome Intent
+269,Hi,Default Welcome Intent
+270,auron,find.address
+271,events in auron,find.event
+272,events in auron,find.event
+273,you mixte events and activities,find.event
+274,you mixte events and activities,find.event
+275,activities this week end,find.activity
+276,activities this week end in auron,find.activity
+277,concerning the activities your answer is good,find.activity
+278,for skiing,find.activity
+279,i want to go for skiing,find.activity
+280,to a restaurant,find.restaurant
+281,auron,find.restaurant
+282,ok now i want an hotel,find.accommodation
+283,auron,find.accommodation
+284,you have no hotels in auron,find.accommodation
+285,what is the weather to day in auron,find.alternatives
+286,meteo a auron aujour'hui,find.alternatives
+287,quels pistes de ski sont ouvertes aujourd'hui,find.activity
+288,auron,find.activity
+289,and to morrow,Default Fallback Intent
+290,how long time between auron and nice airport,find.alternatives
+291,horaires bus de auron à nice,find.alternatives
+292,bus pour nice airport,find.alternatives
+293,la ça devient n'importe quoi,abandon
+294,je veux aller de auron a nice aeroport en bus,find.alternatives
+295,rien sur les transports,abandon
+296,transports entre auron et nice,find.alternatives
+297,Hi,Default Welcome Intent
+298,what is the heigh snow in auron,state_of_snow
+299,what to do in auron today,find.generic
+300,restaurants,find.restaurant
+301,restaurants,find.restaurant
+302,where to sleep in auron,find.accommodation
+303,Hi,Default Welcome Intent
+304,Hi,Default Welcome Intent
+305,Hi,Default Welcome Intent
+306,what to do in auron tody,find.generic
+307,activities,find.activity
+308,where to live in auron,find.alternatives
+309,where ti stay in auron,find.alternatives
+310,hotels in auron,find.accommodation
+311,where to sleep in auron,find.accommodation
+312,snow in auron,find.alternatives
+313,how to go tobauron,find.generic
+314,how to go to auron,find.address
+315,Hi,Default Welcome Intent
+316,hello,Default Welcome Intent
+317,Hi,Default Welcome Intent
+318,que faire à auron ?,find.generic
+319,lieux,Default Fallback Intent
+320,que faire à auron ?,find.generic
+321,activités,find.activity
+322,que faire à auron ?,find.alternatives
+323,que faire à auron ?,find.alternatives
+324,coucou,Default Welcome Intent
+325,que faire à auron ?,find.alternatives
+326,restaurants à auron,find.restaurant
+327,que faire à Auron,find.alternatives
+328,évèneents,Default Fallback Intent
+329,évènements,find.event
+330,auron,find.event
+331,auron,find.event
+332,auron,find.alternatives
+333,hebergement,find.event
+334,hebergement,find.event
+335,hébergement auron,find.accommodation
+336,hotels auron,find.accommodation
+337,conditions de ski à auron,find.alternatives
+338,ski in auron,find.activity
+339,quelles sont les conditions de ski,Default Fallback Intent
+340,what are the ski conditions,find.activity
+341,auron,find.activity
+342,Comment aller à Auron ?,find.alternatives
+343,Hi,Default Welcome Intent
+344,Hi,Default Welcome Intent
+345,Hi,Default Welcome Intent
+346,i want to go to auron,find.address
+347,what is the best road for going to auron,access_to_auron_station
+348,how long  time from nice airport to auron,Default Fallback Intent
+349,by car how long for going to auron,Default Fallback Intent
+350,events in auron to day,find.event
+351,events in auron to day,find.event
+352,events the next week,find.event
+353,activities to day,find.activity
+354,in auron,find.alternatives
+355,hotels in auron,find.accommodation
+356,bedroom in auron,find.alternatives
+357,appartements in auron,find.accommodation
+358,restaurants,find.restaurant
+359,in auron,find.alternatives
+360,ski slopes in auron,slopes
+361,a part les events et les restaurant pas de progres,find.restaurant
+362,Hi,Default Welcome Intent
+363,que faire à auron ?,find.generic
+364,lieux,Default Fallback Intent
+365,shopping,Default Fallback Intent
+366,évènements,find.event
+367,évènements,find.event
+368,hébergement auron,find.accommodation
+369,hotels auron,find.accommodation
+370,ski in auron,find.activity
+371,quelles sont les conditions de ski,Default Fallback Intent
+372,comment aller à auron,Default Fallback Intent
+373,Hi,Default Welcome Intent
+374,que faire aujourd'hui à auron,find.activity
+375,hébergement auron,find.accommodation
+376,Hi,Default Welcome Intent
+377,Hi,Default Welcome Intent
+378,Hi,Default Welcome Intent
+379,What can i do today,find.generic
+380,Events ,find.event
+381,Hi,Default Welcome Intent
+382,Hi,Default Welcome Intent
+383,Which shopping ?,find.shopping
+384,Nice,find.shopping
+385,Events,find.event
+386,Nice,find.event
+387,Nice,find.event
+0,Hi,Default Welcome Intent
+1,restaurant,find.restaurant
+2,valbonne,find.restaurant
+3,antibes,find.alternatives
+4,ok thanks,leave.positive
+5,?,Default Fallback Intent
+6,today,Default Fallback Intent
+7,the weather ,weather
+8,Hi,Default Welcome Intent
+9,Hi,Default Welcome Intent
+10,hi minotour,Default Welcome Intent
+11,today,Default Fallback Intent
+12,weather,weather
+13,antibes,find.address
+14,is it sunny?,weather
+15,?,Default Fallback Intent
+16,antibes,find.address
+17,Hi,Default Welcome Intent
+18,Hi,Default Welcome Intent
+19,salut,Default Fallback Intent
+20,what do you propose as nightlife activities,find.activity
+21,Nice,find.activity
+22,I'd like to see sightseeings,find.poi
+23,Nice,find.poi
+24,give me address of the corniche Fleurie,Default Fallback Intent
+25,where is the corniche fleurie ? ,find.address
+26,où est la corniche fleurie ?,find.address
+27,Hi,Default Welcome Intent
+28,find events in Nice for tomorrow,find.event
+29,je voudrais manger dans un restaurant,find.restaurant
+30,Hi,Default Welcome Intent
+31,trouve des restaurants à Nice,find.restaurant
+32,trouve des restaurants à Cannes,find.restaurant
+33,trouve des restaurants italiens à Nice,find.restaurant
+34,trouves des événements à Cannes,find.event
+35,trouves des événements à Cannes,find.event
+36,Hi,Default Welcome Intent
+37,what can you do,find.generic
+38,Hi,Default Welcome Intent
+39,salut,Default Fallback Intent
+40,i need help,help
+41,I'd like to eat something in Nice,find.restaurant
+42,in cannes,find.alternatives
+43,and at St tropez ? ,find.alternatives
+44,how can you help ? ,find.generic
+45,Nice ,find.generic
+46,food,find.restaurant
+47,in cannes ? ,find.alternatives
+48,show me events in nice please,find.event
+49,today,find.alternatives
+50,and in cannes ? ,find.alternatives
+51,next saturday,Default Fallback Intent
+52,show me events in St tropez next saturday,find.event
+53,show me events next week in Cannes,find.event
+54,more,find.more
+55,show me events,find.event
+56,shops in Eze,find.shopping
+57,in cannes,find.alternatives
+58,activities in beaulieu,find.activity
+59,Beaulieu sur mer,find.activity
+60,in Luceram,find.alternatives
+61,in Boréon,Default Fallback Intent
+62,in cannes,find.alternatives
+63,in saint martin du var,find.alternatives
+64,in Nice,find.alternatives
+65,what can i do in Nice? ,find.generic
+66,events,find.event
+67,Hi,Default Welcome Intent
+68,show me events in Nice this month,find.event
+69,Hi,Default Welcome Intent
+70,show events in Nice for tomorrow,find.event
+71,quelle est la hauteur de neige à Auron ? ,state_of_snow
+72,reboot,Default Fallback Intent
+73,stop,abandon
+74,quel est l'état de la route pour aller à Auron ? ,access_to_auron_station
+75,la station d'Auron est ouverte ?,station_opening_closing_date
+76,combien de remontées mécaniques sont ouvertes ? ,ski_lifts_ski_area
+77,Hi,Default Welcome Intent
+78,Hi,Default Welcome Intent
+79,Find events in Nice,find.event
+80,Hi,Default Welcome Intent
+81,Salut,Default Fallback Intent
+82,Bonjour,Default Welcome Intent
+83,tarifs de la station d'Auron,Default Fallback Intent
+84,forfait,Default Fallback Intent
+85,tarif de la station d'Auron,Default Fallback Intent
+86,est-ce que la station d'Auron est accessible sans chaînes ? ,special_equipments
+87,il y a des événements sur Auron ? ,find.event
+88,qu'est-ce qu'il y a à faire sur Auron ? ,find.alternatives
+89,quelles sont les activités à Auron ? ,find.activity
+90,quelles sont les activités à Nice ? ,find.activity
+91,stop,abandon
+92,que peux tu me dire sur Nice ? ,help
+93,donne moi des infos sur Nice,find.generic
+94,je veux découvrir Nice,find.restaurant
+95,qu'est-ce qu'il y a d'intéressant ? ,find.generic
+96,Nice,find.generic
+97,activités,find.activity
+98,que peux-tu me montrer ? ,find.generic
+99,Nice,find.generic
+100,lieux,Default Fallback Intent
+101,lieu,Default Fallback Intent
+102,quelle information peux-tu me montrer ? ,find.generic
+103,cannes,find.generic
+104,quelle est la hauteur de neige à Auron ? ,state_of_snow
+105,quelle route je dois prendre pour aller à Auron ? ,itinerary_to_auron_station
+106,comment on fait pour aller à Auron ? ,itinerary_to_auron_station
+107,donne moi le trajet de nice vers la station d'auron,find.generic
+108,est-ce que la route vers auron est dégagée ? ,access_to_auron_station
+109,est-ce que tout est ouvert ? ,station_opening_closing_date
+110,montre moi ce qu'il se passe autour de moi,Default Fallback Intent
+111,montre moi ce qu'il se passe autour de moi maintenant,Default Fallback Intent
+112,trouve moi quelque chose à faire à Nice maintenant,find.activity
+113,montre moi des boutiques à Cannes,find.alternatives
+114,more,Default Fallback Intent
+115,plus,find.more
+116,montre moi des activités à Cannes,find.activity
+117,show me activities in Cannes,find.activity
+118,show me activities in Nice,find.activity
+119,events in Cannes,find.event
+120,j'ai besoin de manger quelque chose,find.restaurant
+121,Nice,find.restaurant
+122,j'ai faim,find.restaurant
+123,Cannes,find.alternatives
+124,Hi,Default Welcome Intent
+125,Hi,Default Welcome Intent
+126,montre moi des boutiques à Cannes,find.generic
+127,Hi,Default Welcome Intent
+128,Bonjour,Default Welcome Intent
+129,I'm looking for a restaurant in Nice,find.restaurant
+130,Paris,Default Fallback Intent
+131,I'm looking for a restaurant in Paris,find.restaurant
+132,Paris,find.restaurant
+133,Antibes,find.restaurant
+134,Thank you,leave.positive
+135,I want to ask another question,Default Fallback Intent
+136,Can you find  an accomodation in Antibes for this night ?,find.alternatives
+137,Good,Default Fallback Intent
+138,Ok,Default Fallback Intent
+139,nothing,leave.negative
+140,Hi,Default Welcome Intent
+141,Hi,Default Welcome Intent
+142,I'm looking for an accomodation in Antibes ?,find.poi
+143,Hi,Default Welcome Intent
+144,Hi,Default Welcome Intent
+145,Hi,Default Welcome Intent
+146,show events in Nice for tomorrow,find.event
+147,find events in Nice for tomorrow,find.event
+148,Hi,Default Welcome Intent
+149,find events in Nice ,find.event
+150,events in Nice this month,find.event
+151,show me events in Nice,find.event
+152,show me shops in Cannes,find.shopping
+153,Hi,Default Welcome Intent
+154,Hi,Default Welcome Intent
+155,Hi,Default Welcome Intent
+156,Find events in nice ,find.event
+157,Hi,Default Welcome Intent
+158,Hi,Default Welcome Intent
+159,Hi,Default Welcome Intent
+160,show me events in Nice,find.event
+161,show me activities at Nice,find.activity
+162,quelles sont les activités interessantes à Cannes ? ,find.activity
+163,montre moi ce qu'il se passe autour de moi ,find.alternatives
+164,montre moi ce qu'il se passe autour de moi cetet semaine,find.alternatives
+165,donne moi des infos sur Nice,find.alternatives
+166,que peux tu me dire sur Nice ?,discover.city
+167,je veux découvrir Nice,discover.city
+168,montre moi ce qu'il se passe autour de moi,find.event
+169,Nice,find.event
+170,montre moi des activités,find.activity
+171,Nice,find.activity
+172,montre moi ce qu'il se passe autour de moi,find.alternatives
+173, que peux tu me dire sur Nice ?,find.alternatives
+174,Hi,Default Welcome Intent
+175,Hi,Default Welcome Intent
+176,I'm boring i would like to see what's happening around me,find.event
+177,Hi,Default Welcome Intent
+178,Hi,Default Welcome Intent
+179,Hi,Default Welcome Intent
+180,Hi,Default Welcome Intent
+181,find events in Nice,find.event
+182,how can you help ? ,help
+183,comment tu peux m'aider ?,help
+184,je suis perdu,help
+185,je peux te poser une question ?,help
+186,je comprends pas,help
+187,donne moi des conseils,help
+188,what can you advice me on?,help
+189,what can you do?,help
+190,I'm confused,help
+191,help,help
+192,montre moi des événements ,find.event
+193,Cannes,find.event
+194,ok show me activities in Nice please,find.activity
+195,bonjour Minotour,Default Welcome Intent
+196,Bonjour,Default Welcome Intent
+197,peux-tu me donner des hotels sur cannes ?,find.accommodation
+198,Salut,leave.positive
+199,Bonjour,Default Welcome Intent
+200,Ok could you give me events at Beaulieu sur mer please,find.event
+201,quelle route je dois prendre pour aller à Auron ?,itinerary_to_auron_station
+202,montre moi ce qu'il se passe autour de moi,find.event
+203,Cannes,find.event
+204,que peux tu me dire sur Nice ? ,discover.city
+205,je veux découvrir Cannes,discover.city
+206,donne moi des infos sur la ville de Nice,find.accommodation
+207,donne moi des infos sur Nice,discover.city
+208,Hi,Default Welcome Intent
+209,show me events,find.event
+210,Nice,find.event
+211,Hi,Default Welcome Intent
+212,trouve des événements autour  de moi,find.event
+213,Hi,Default Welcome Intent
+214,Hi,Default Welcome Intent
+215,Hi,Default Welcome Intent
+216,Hi,Default Welcome Intent
+217,Hi,Default Welcome Intent
+218,Hi,Default Welcome Intent
+219,What évents WE havé in auron today ,find.generic
+220,Events,find.event
+221,I want an hôtel for thé week-end ,Default Fallback Intent
+222,Hôtel pour le week-end ,find.accommodation
+223,Auron,find.accommodation
+224,Quel temps fait il a auron ce week-end ,find.alternatives
+225,What is the weather forcast for thé next week in auron,access_to_auron_station
+226,Un restaurant ,find.restaurant
+227,Auron,find.restaurant
+228,Route pour aller à auron,itinerary_to_auron_station
+229,Hi,Default Welcome Intent
+0,Hi,Default Welcome Intent
+1,donne moi des infos sur la ville de Nice,find.accommodation
+2,donne moi des infos sur Nice,discover.city
+3,Hi,Default Welcome Intent
+4,donne moi des infos sur la ville de Nice,find.accommodation
+5,Hi,Default Welcome Intent
+6,donne moi des infos sur la ville de Nice,discover.city
+7,Hi,Default Welcome Intent
+8,Hi,Default Welcome Intent
+9,show me events in canes this month,find.event
+10,Cannes,find.event
+11,great thank you ! could you show me activities near me ? ,find.activity
+12,Bonjour,Default Welcome Intent
+13,parle moi en français,Default Fallback Intent
+14,Hi,Default Welcome Intent
+15,Could you show me events at Cannes this weekend ? ,find.event
+16,Hi,Default Welcome Intent
+17,Hi could you show me music concerts happening in Cannes this weekend ? ,find.event
+18,Hi,Default Welcome Intent
+19,Hi could you show me music concerts happening in Cannes?,find.event
+20,Hi,Default Welcome Intent
+21,Hi ! Could you show me some events happening at Cannes this saturday?,find.event
+22,thank you ! and is there any activities to do with my familly near me? ,access_to_auron_station
+23,is there any activities to do near me?,find.activity
+24,Hi,Default Welcome Intent
+25,Hi ! Could you show me musical events at cannes this saturday?,find.event
+26,could you show me musical events at cannes this weekend?,find.event
+27,next week?,Default Fallback Intent
+28,could you show me musical events next week in Cannes ?,find.event
+29,Great ! now is there any cool activities to do with my familly near me?,find.activity
+30,Hi,Default Welcome Intent
+31,could you show me musical events next week in Cannes ?,find.event
+32,Great ! now is there any cool activities to do with my familly near me?,find.activity
+33,Hi,Default Welcome Intent
+34,Hi,Default Welcome Intent
+35,Hi,Default Welcome Intent
+36,Hi,Default Welcome Intent
+37,show me events in Nice this month,find.event
+38,Hi,Default Welcome Intent
+39,and in Cannes?,Default Fallback Intent
+40,and this week?,Default Fallback Intent
+41,show me events in Nice this morning,find.event
+42,and in Cannes?,find.alternatives
+43,stop,leave.negative
+44,Hi,Default Welcome Intent
+45,show me events in Nice this month,find.event
+46,and in Cannes?,find.alternatives
+47,and this week?,find.alternatives
+48,and in Nice?,find.alternatives
+49,Hi,Default Welcome Intent
+50,and in Cannes?,find.alternatives
+51,hi,Default Welcome Intent
+52,show me events in Nice,find.event
+53,this week ?,Default Fallback Intent
+54,show me events in Nice this week,find.event
+55,and next weekend ? ,find.alternatives
+56,and in Cannes ? ,find.alternatives
+57,show me events in Juan les pins,find.event
+58,and the next weekend?,find.alternatives
+59,and in St Tropez ? ,find.alternatives
+60,Hi Minotour,Default Welcome Intent
+61,show me events near me,find.event
+62,and at Cannes this month ? ,find.alternatives
+63,next month ,Default Fallback Intent
+64,show me events next month at Cannes,find.event
+65,more,find.more
+66,Hi,Default Welcome Intent
+67,What are good events this week-end?,find.event
+68,In Nice,find.event
+69,show me more,find.more
+70,Hi,Default Welcome Intent
+71,Hi,Default Welcome Intent
+72,Do you know Malaysian restaurant in Nice?,find.restaurant
+73,Hi,Default Welcome Intent
+74,lavender in Nice,Default Fallback Intent
+75,I'm looking lavender place in Nice,find.poi
+76,Hi,Default Welcome Intent
+77,Hello,Default Welcome Intent
+78,I am angry where is the good restaurant for me.,access_to_auron_station
+79,Where is it?,find.address
+80,Hi,Default Welcome Intent
+81,Hello,Default Welcome Intent
+82,Can you suggest halal food?,find.restaurant
+83,Nice,find.restaurant
+84,Hi,Default Welcome Intent
+85,Hi,Default Welcome Intent
+86,Hi,Default Welcome Intent
+0,Hi,Default Welcome Intent
+1,hi,Default Welcome Intent
+2,look for events in Antibes this month,find.event
+3,how about Nice,find.alternatives
+4,Hi,Default Welcome Intent
+5,Hello,Default Welcome Intent
+6,I want to eat socca ,find.generic
+7,Is MAMAC museum in Nice open on Sunday?,find.poi
+8,give me a museum,find.poi
+9,What,find.poi
+10,what is the weather in Valberg?,find.poi
+11,Valberg,find.poi
+12,Auron,find.poi
+13,Golfe Juan,find.poi
+14,Cannes,find.poi
+15,what's the weather in Valberg,weather
+16,Isola,find.alternatives
+17,give me the weather report,abandon
+18,give me the weather report,abandon
+19,show me the weather report,find.more
+20,reset,abandon
+21,reset,abandon
+22,give me art galleries in Nice,find.activity
+23,discover Antibes,discover.city
+24,tell me more about Antibes,discover.city
+25,what to do in Antibes tomorrow?,find.alternatives
+26,reset,abandon
+27,what can I do in Antibes tomorrow?,find.alternatives
+28,what to do tomorrow in antibes ?,find.activity
+29,Antibes,find.activity
+30,how to visit Grasse?,find.alternatives
+31,find bike rental in Nice,find.activity
+32,find activity in Nice on 7th of september ,find.activity
+33,in cannes for 6th of september,find.alternatives
+34,in monaco for 5 of september,find.alternatives
+35,can you help me plan my vacation ?,abandon
+36,what can i visit in Nice in december,find.alternatives
+37,in eze,find.alternatives
+38,what can my kids do in cannes,find.alternatives
+39,events for kids,find.event
+40,cannes,find.event
+41,this month,find.event
+42,in nice,find.alternatives
+43,find walking tour in nice,find.activity
+44,walking tour in NICE,find.activity
+45,find restaurants in nice for this afternoon,find.alternatives
+46,cafe in antibes,find.alternatives
+47,show me malls in NICE,find.shopping
+48,in cannes,find.alternatives
+49,show me activities in nice,find.activity
+50,sports activity in nice,find.activity
+51,sports events in nice,find.event
+52,this month,find.event
+53,what can i do in eze,find.alternatives
+54,any walking tours in NICE for this month ,find.activity
+55,show me alps activity in nice for december,find.activity
+56,any sightseeing in nice,find.alternatives
+57,events in antibes this month,find.event
+58,show museums in cannes,find.poi
+59,show museums  in NICE,find.poi
+60,in cannes,find.alternatives
+61,in grasse,find.alternatives
+62,find a place to stay in nice for this weekend,find.alternatives
+63,find a place to stay in Nice for this weekend,find.alternatives
+64,find accommodation in antibes,find.accommodation
+65,in nice,find.alternatives
+66,in grasse,find.alternatives
+67,in eze,find.alternatives
+68,in st tropez,find.alternatives
+69,parks in NICE,find.poi
+70,art gallery in NICE,find.activity
+71,show me art gallery in NICE,find.activity
+72,find art gallery ,find.activity
+73,nice,find.activity
+74,events for kids in nice,find.alternatives
+75,show me somthing in music,find.event
+76,nice,find.event
+77,this month,find.event
+78,what can i do in NICE this october,find.alternatives
+79,show me dance shows in NICE,find.alternatives
+80,show me dance events in nice this month,find.event
+81,what is happening in NICE today ,find.event
+82,what can i do in cannes today,find.alternatives
+83,suggest me something interesting to do in nice ,find.alternatives
+84,in st tropez,find.alternatives
+85,pizza place in nice,find.restaurant
+86,NICE,find.restaurant
+87,coffee shops in nice,find.shopping
+88,Hi,Default Welcome Intent
+89,find events in Nice and Cannes this november,find.event
+90,find sports activity in cannes,find.event
+91,this month,find.event
+92,find me an event nearby me,find.alternatives
+93,next month,find.alternatives
+94,find parks in monaco,find.poi
+95,find museums in Antibes,find.poi
+96,I would like to visit a museum in Cannes,find.poi
+97,museums in cannes,find.poi
+98,find some events in St Tropez,find.event
+99,this month,find.event
+100,ok i would like to do some activities in Antibes this weekend something to propose ?,find.activity
+101,Im looking for cafe in antibes,find.restaurant
+102,find coffee shops in biot,find.restaurant
+103,in antibes,find.alternatives
+104,in biot,find.alternatives
+105,in valbonne,find.alternatives
+106,find water sports in antibes for this weekend,find.event
+107,sports in st tropez,find.alternatives
+108,ok thank you ,leave.positive
+109,find some concerts in Nice this weekend,find.event
+110,i would like to do some shopping in Nice,find.alternatives
+111,shopping in Nice,find.alternatives
+112,i want to book a room in hotel,find.accommodation
+113,Nice,find.accommodation
+114,what's up bot,Default Welcome Intent
+115,events next week-end in NICE,find.alternatives
+116,i want to spend the weekend in nice can you recommend to me the best hotels there,find.alternatives
+117,Hi,Default Welcome Intent
+118,Hi I would like to see music festival in Nice ,find.event
+119,this month,find.event
+120,show me events in Nice this month,find.event
+121,more,find.more
+122,more ,find.more
+123,music events in Cannes this month,find.event
+124,music events in cannes this year,find.event
+125,in nice,find.alternatives
+126,find a restaurant around me,find.restaurant
+127,show me restaurants in Nice,find.restaurant
+128,show me some coffees in Cannes,find.alternatives
+129,find hotel in Nice,find.accommodation
+130,hey could you find any cool hotel close to me ? ,find.accommodation
+131,and in Nice ? ,find.alternatives
+132,i would like to visit St Tropez,find.alternatives
+133,show me sightseeing in St Tropez,find.alternatives
+134,I'm looking for some good museum to visit in Nice,find.poi
+135,show me some tours to do in Cannes,find.activity
+136,what about Nice ? ,find.alternatives
+137,ok then i would like to eat in a romantic restaurant with my wife,find.restaurant
+138,Nice ,find.restaurant
+139,and in cannes ? ,find.alternatives
+140,In St Tropez,find.alternatives
+141,restaurants in St Tropez,find.alternatives
+142,ok now can you find me some theater plays in Nice ? ,find.activity
+143,show me theater places,find.activity
+144,nice,find.activity
+145,show me play in nice,find.alternatives
+146,theater in NICE,find.activity
+147,find me an event about theater in Nice ,find.event
+148,this month,find.event
+149,theater plays in Nice,find.activity
+150,show me cultural events in Cannes,find.event
+151,this month,find.event
+152,music event in Cannes this month,find.event
+153,find some cultural events in Nice,find.event
+154,this month,find.event
+155,in St Tropez ?,find.alternatives
+156,music events in Cannes this month,find.event
+157,Hi,Default Welcome Intent
+158,Hi,Default Welcome Intent
+159,hey,Default Welcome Intent
+160,Hi,Default Welcome Intent
+161,could you find me some cultural events,find.event
+162,Nice,find.event
+163,this week,find.event
+164,more ,find.more
+165,and what about Mougins ?,find.alternatives
+166,and this month ?,find.alternatives
+167,ok so find me now some hotel around me,find.alternatives
+168,fuck you,insult
+169,ok find some hotel around me,find.accommodation
+170,Hi,Default Welcome Intent
+171,hi,Default Welcome Intent
+172,show some events tomorrow in Nice,find.event
+173,show events in Nice tomorrow,find.event
+174,hi,Default Welcome Intent
+175,hi,Default Welcome Intent
+176,show activity for kids in nice,find.event
+177,this month,find.event
+178,what can i do in nice this december,find.activity
+179,museum in st tropez,find.poi
+180,restart,abandon
+181,museums in biot,find.poi
+182,show me all the events in cannes,find.event
+183,this month,find.event
+184,more,find.more
+185,some more,find.more
+186,find some hotel in cannes this weekend,find.accommodation
+187,i don't know where is the cinema in Cannes,find.event
+188,today,find.event
+189,find cinema events in NICE this month,find.event
+190,Find some concert in Nice this weekend,find.event
+191,show me the places to visit in Monaco,find.poi
+192,events in monaco,find.event
+193,this month,find.event
+194,show me the places to visit in Nice,find.poi
+195,propose me events in monaco for december,find.event
+196,show me what to do this evening in nice,find.event
+197,events today in NICE,find.event
+198,reboot,abandon
+199,show me events in NICE today,find.event
+200,show me events in Nice this week,find.event
+201,show me places in Nice,find.event
+202,today,find.event
+203,show me some activities in Nice,find.event
+204,this week,find.event
+205,show me events in Nice,find.event
+206,this week,find.event
+207,show me the places to visit in Monaco,find.poi
+208,stop,abandon
+209,check sightseeings in Nice,find.poi
+210,Hi,Default Welcome Intent
+211,show sightseeings in Nice,find.poi
+212,show sightseeings in Nice,find.poi
+213,find something to do in NICE today,find.activity
+214,in grasse,find.shopping
+215,in cannes,find.shopping
+216,stop,abandon
+217,any midnight events in nice this month,find.event
+218,check sightseeings in Nice,find.poi
+219,more,find.more
+220,show me places in St Tropez,find.shopping
+221,show me places in Nice,find.shopping
+222,what can i do in grasse today,find.activity
+223,show me more ,find.more
+224,ok thank you ,leave.positive
+225,'hi,Default Welcome Intent
+226,book a table,find.accommodation
+227,nice,find.accommodation
+228,help me book,find.accommodation
+229,cannes,find.accommodation
+230,what are the museums of Nice,find.poi
+231,what do you suggest me to do in NICE,find.shopping
+232,Things to do in Cannes,find.shopping
+233,night life in nice,find.accommodation
+234,game night in Nice this month,find.accommodation
+235,what to visit in Antibes,find.poi
+236,Hi,Default Welcome Intent
+237,Hi,Default Welcome Intent
+238,hi,Default Welcome Intent
+239,show me events in nice,find.event
+240,hi,Default Welcome Intent
+241,today,find.event
+242,show me events in nice today,find.event
+243,show me places in nice,find.shopping
+244,show me plays in nice,find.event
+245,this month,find.event
+246,Hi,Default Welcome Intent
+247,antibe train station,find.shopping
+248,find antibe train station,find.shopping
+249,gare d'antibes,find.shopping
+250,reboot,abandon
+251, find museums in antibes,find.poi
+252,where is chateau Grimaldi,find.accommodation
+253,antibes,find.accommodation
+254,show places in Nice,find.shopping
+255,where is the Chateau Grimaldi in Antibes ?,find.accommodation
+256,Where is the Mamac museum in Nice?,find.poi
+257,check for pet friendly restaurants in antibes,find.restaurant
+258,cafe in juan,find.restaurant
+259,juan le pins,find.restaurant
+260,cafe in antibes,find.restaurant
+261,pubs in antibes,find.restaurant
+262,what can i do in antibes,find.generic
+263,what can i do in antibes,find.generic
+264,what can i do in antibes,find.generic
+265,reboot,abandon
+266,what can i do in antibes,find.generic
+267,what can i do in antibes,find.generic
+268,show hotel nearby,find.accommodation
+269,what can i do in Antibes?,find.generic
+270,events,find.event
+271,Antibes,find.event
+272,reboot,abandon
+273,events,find.event
+274,nice,find.event
+275,today,find.event
+276,what can i do in Antibes,find.generic
+277,what can i do in nice,find.generic
+278,what can i do in Nice,find.generic
+279,what can i do in Antibes?,find.generic
+280,what can i do in Nice,find.generic
+281,what can i do in Nice,find.generic
+282,what can i do in NIce,find.generic
+283,i give up,leave.negative
+284,find sports activity in Cannes,find.activity
+285,Cannes,find.activity
+286,what is interesting in NICE today at 8:00,find.activity
+287,what iwhat is interesting in NICE today at 8:00 pm,find.activity
+288,suggest me something to do in Nice today,find.activity
+289,i want to go out this weekend in cannes,find.generic
+290,I want to go to cannes this weekend show me events,find.event
+291,anything to do in grasse,find.generic
+292,events,find.event
+293,suggest me something to do in cannes,find.generic
+294,activities,find.event
+295,find events in Nice and Cannes this november,find.event
+296,more,find.more
+297,Find events near me,find.event
+298,propose me something to do in St tropez,find.generic
+299,this year,find.event
+300,food,find.event
+301,eating,find.restaurant
+302,Nice,find.restaurant
+303,find me an event nearby me,find.event
+304,this month,find.event
+305,how can you help?,find.generic
+306,how to go from nice airport to downtown ?,find.shopping
+307,stop,abandon
+308,stop,abandon
+309,stop,abandon
+310,find all events in grass ?,find.event
+311,Grasse,find.event
+312,This month,find.event
+313,find me events in Juan les pins,find.event
+314,this month,find.event
+315,find me events in Juan le pins,find.event
+316,what is happening in nice,find.shopping
+317,find events in NICE for 6:00 pm today,find.event
+318,find a place to eat near me,find.restaurant
+319,find some fastfoods near me,find.restaurant
+320,to do some shopping in Nice,find.shopping
+321,yes i'm bored,find.activity
+322,check events this weekend in nice,find.event
+323,is there an ATM around me ?,find.shopping
+324,check events on 20 september in nice,find.event
+325,show me events for this weekend in cannes,find.event
+326,local business next to me,find.shopping
+327,any events in st tropez this eveneing,find.event
+328,at 9,find.event
+329,do you speak french?,Default Fallback Intent
+330,concerts in nice,find.event
+331,this mont,find.event
+332,this month,find.event
+333,where are you from,Default Fallback Intent
+334,how are you doing?,Default Fallback Intent
+335,what time is it?,Default Fallback Intent
+336,what are the available cities?,Default Fallback Intent
+337,French Riviera,Default Fallback Intent
+338,i want events in the French Riviera,find.event
+339,find same musem in nice,find.shopping
+340,events in nice today midnight,find.event
+341,what to do?,find.event
+342,this month,find.event
+343,is there any nice places to visit in Nice ?,find.poi
+344,Historical and Cultural Sites,find.alternatives
+345,weather paris,Default Fallback Intent
+346,can you suggest me the best places to visit in Nice ?,find.poi
+347,bot you are stupid,leave.negative
+348,any awsome places in nice ?,find.shopping
+349,places,find.poi
+350,ncie,find.poi
+351,Cannes,find.poi
+352,which places can i visit at cote d'azur,find.poi
+353,Vence,find.poi
+354,which places can i visit at cote d'azur,find.poi
+355,Cannes,find.poi
+356,i want to make reservation,find.generic
+357,hotels,find.accommodation
+358,Nice,find.accommodation
+359,i want to know where the best party,find.event
+360,Nice,find.event
+361,this month,find.event
+362,can i ask you a question,Default Fallback Intent
+363,Where can i do a shopping ,find.shopping
+364,Cannes,find.shopping
+365,sighseeing and place to visit,find.poi
+366,Nice,find.poi
+367,show me map of nice,find.shopping
+368,culturelle,Default Fallback Intent
+369,what do you want me to do?,find.generic
+370,stop,abandon
+371,where is Monaco located?,find.shopping
+372,stop,abandon
+373,I want to buy some gifts,find.shopping
+374,Cannes,find.shopping
+375,shopping center,find.shopping
+376,"Nic""",find.shopping
+377,Cannes,find.shopping
+378,give me romantic events in nice today,find.event
+379, i want to know the best places in Nice,find.shopping
+380,anything happening on 15th september in Nice,find.event
+381,give me the best place in Nice,find.shopping
+382,in cannes,find.shopping
+383,in grasse,find.shopping
+384,weather,weather
+385,find some hôtel nearby me,find.shopping
+386,suggest me some activities in Nice today,find.activity
+387,rent a car,Default Fallback Intent
+388,i need a doctor near my place,find.shopping
+389,boat trip,Default Fallback Intent
+390,what can i do ?,find.generic
+391,activities in Cannes,find.shopping
+392,tell me what can i do,find.generic
+393,what to do by foot in 3 hours time in nice ?,find.activity
+394,clubbing in Jean-les-pins,find.activity
+395,Juan les pins,find.activity
+396,find activity in st tropez,find.activity
+397,show more,find.more
+398,look for some activity in Nice for november,find.activity
+399,in cannes,Default Fallback Intent
+400,water sports in Nice,find.activity
+401,i want to do some shopping in Nice,find.shopping
+402,activities in Cannes,find.activity
+403,show more,find.more
+404,shopping in nice,find.shopping
+405,in cannes,Default Fallback Intent
+406,shopping in cannes,find.shopping
+407,show me the places to danse,find.accommodation
+408,Cannes,find.accommodation
+409,events in nice,find.event
+410,this month,find.event
+411,in cannes,Default Fallback Intent
+412,i want to find bike location,Default Fallback Intent
+413,Hi ,Default Welcome Intent
+414,what to do in Nice this december,find.generic
+415,events in Nice this december,find.event
+416,show more,find.more
+417,in cannes,Default Fallback Intent
+418,museums in Grasse,find.poi
+419,in antibes,Default Fallback Intent
+420,museums in antibes,find.poi
+421,find a cafe in antibes,find.restaurant
+422,activity in antibes,find.activity
+423,show more,find.more
+424,find local market in nice,find.shopping
+425,cafe in biot,find.restaurant
+426,restaurants in biot,find.restaurant
+427,show more,find.more
+428,some more,find.more
+429,cafe in valbonne,find.restaurant
+430,find events in nice,find.event
+431,this month,find.event
+432,in cannes,Default Fallback Intent
+433,what do you suggest me to do in NICe,find.generic
+434,find events in NICE this december,find.event
+435,activities,find.activity
+436,Nice,find.activity
+437,in cannes,Default Fallback Intent
+438,in city cannes,Default Fallback Intent
+439,find events in cannes,find.event
+440,this month,find.event
+441,find events in Nice,find.event
+442,this month,find.event
+443,next week,Default Fallback Intent
+444,events in Nice this month,find.event
+445,in Cannes,Default Fallback Intent
+446,in cannes,Default Fallback Intent
+447,in grasse,Default Fallback Intent
+448,in antibes,Default Fallback Intent
+449,events in cannes this december,find.event
+450,im bored,Default Fallback Intent
+451,i give up,leave.negative
+452,im bored help me find events in cannes,find.event
+453,today,find.event
+454,what about cannes ?,Default Fallback Intent
+455,reset,abandon
+456,check events in Nice this month,find.event
+457,what about Cannes?,find.alternatives
+458,check for walking tours in Nice this month,find.activity
+459,next month,find.alternatives
+460,show me events in Nice this month,find.event
+461,in cannes,find.alternatives
+462,in grasse,find.alternatives
+463,in st topez,find.alternatives
+464,find events in cannes this november,find.event
+465,in nice,find.alternatives
+466,in grasse,find.alternatives
+467,in st tropez,find.alternatives
+468,find activities in cannes ,find.activity
+469,in nice,find.alternatives
+470,in grasse,find.alternatives
+471,in st tropez,find.alternatives
+472,in antibes,find.alternatives
+473,in Juan les Pins,find.alternatives
+474,cafe in Juan les Pins,find.restaurant
+475,events in Juan les Pins,find.event
+476,this month,find.event
+477,Hi,Default Welcome Intent
+478,Hi,Default Welcome Intent
+479,Hi,Default Welcome Intent
+480,hi ,Default Welcome Intent
+481,im looking for events in nice this month,find.event
+482,in cannes,find.alternatives
+483,in st tropez,find.alternatives
+484,in grasse,find.alternatives
+485,Hi,Default Welcome Intent
+486,Hi I would like events at cannes next week,find.event
+487,and what about Nice ?,find.alternatives
+488,and for this month ?,find.alternatives
+489,now i would like to eat something nearby,find.restaurant
+490,find me some museums in Nice,find.poi
+491,Hi,Default Welcome Intent
+492,Hi,Default Welcome Intent
+493,hi,Default Welcome Intent
+494,Hi,Default Welcome Intent
+495,find events in NICE in monaco,find.event
+496,this november,find.event
+497,Hi,Default Welcome Intent
+498,Hello,Default Welcome Intent
+499,what to visit in NICE,find.poi
+500,in cannes,find.alternatives
+501,in monaco,find.alternatives
+502,in antibes,find.alternatives
+503,show me day trips in NICE,find.activity
+504,sports activity,find.activity
+505,NICE,find.activity
+506,show walking tours in NICE,find.activity
+507,sightseeings in nice,find.poi
+508,museums in NICE,find.poi
+509,show some nice place ,find.more
+510,show me nice place in cannes,find.poi
+511,hi,Default Welcome Intent
+512,show me activitiy in nice,Default Fallback Intent
+513,show me activity in Nice,find.activity
+514,day trips in cannes this month,find.activity
+515,activity,find.activity
+516,cannes,find.activity
+517,show me night activity in Cannes,find.activity
+518,Show me events only in Night in Nice on December,find.event
+519,show me some nice place to see in NICE,find.accommodation
+520,show me some nice place to see,find.more
+521,restart,abandon
+522,show me places in NICE,find.poi
+523,suggest some events for tomorrow in Nic,find.event
+524,nice,find.event
+525,find any activity in monaco,find.activity
+526,i'm hungry,find.restaurant
+527,nice,find.restaurant
+528,more,find.more
+529,more,find.more
+530,find events in NICE and Cannes this november,find.event
+531,find parks in monaco,find.poi
+532,find museums in Antibes,find.poi
+533,show me an hotel with car park in nice,find.poi
+534,Find hotels with car parking in Nice,find.accommodation
+535,find some events in St Tropez,find.event
+536,december,find.event
+537,find some events in Cannes this week,find.event
+538,show more,find.more
+539,find some in events in Cannes this month,find.event
+540,any sports match in cannes,find.event
+541,this month,find.event
+542,Im looking for cafe in antibes,find.restaurant
+543,check all events in Nice,find.event
+544,this month,find.event
+545,find church in Antibes,find.poi
+546,any museum in Cannes,find.poi
+547,Find Museums in Cannes,find.poi
+548,find museums in Nice,find.poi
+549,in cannes,find.alternatives
+550,Museums in Nice,find.poi
+551,in grasse,find.alternatives
+552,what can i do in grasse,find.generic
+553,city,Default Fallback Intent
+554,wat can i see in grasse,Default Fallback Intent
+555,what can i see in grasse,find.generic
+556,sightseeings in grasse,find.poi
+557,can you propose shops in NICE,find.shopping
+558,in cannes,find.alternatives
+559,in monaco,find.alternatives
+560,find art shops in NICE,find.shopping
+561,in cannes,find.alternatives
+562,tell me about events in Cannes this week,find.event
+563,what can i do in cannes,find.generic
+564,show me attractions in cannes,Default Fallback Intent
+565,show me attractions in cannes,Default Fallback Intent
+566,tell me concerts in cannes this month,find.event
+567,next month,find.alternatives
+568,tell me concerts in Nice this month,find.event
+569,to do some shopping in Nice,find.shopping
+570,more,find.more
+571,more,find.more
+572,more,find.more
+573,more,find.more
+574,more,find.more
+575,find cafe in monaco,find.restaurant
+576,find events in monticarlo,find.event
+577,monticarlo,find.event
+578,monti carlo,find.event
+579,monte carlo,find.event
+580,find events in monaco,find.event
+581,december,find.event
+582,find plays in nice,find.event
+583,this month,find.event
+584,anytime,Default Fallback Intent
+585,what can my kids do in Nice this december,find.generic
+586,shopping for kids in Nice,find.shopping
+587,comedy shows in nice this month,find.event
+588,next month,find.alternatives
+589,matches in nice this month,find.event
+590,sports activity in Nice this month,find.activity
+591,matches in cannes this month,find.event
+592,hi,Default Welcome Intent
+593,hi,Default Welcome Intent
+594,events in monaco this month,find.event
+595,show more,find.more
+596,find events in Nice,find.event
+597,this month,find.event
+598,Hi,Default Welcome Intent
+599,find sports activity in cannes,find.activity
+600,hi,Default Welcome Intent
+601,I want to eat local food in nice,find.restaurant
+602,pizza place in nice,find.restaurant
+603,hi,Default Welcome Intent
+604,Hi,Default Welcome Intent
+605,check for museums in cannes,find.poi
+606,hi,Default Welcome Intent
+607,Hi,Default Welcome Intent
+608,hi?,Default Welcome Intent
+609,suggest some events for tomorrow in Nice,find.event
+610,can you show me accommodation in Vence ? ,find.accommodation
+611,hi,Default Welcome Intent
+612,check museums in cannes,find.poi
+613,show me activity in NICE for kinds,find.activity
+614,show activity for kids in Nice,find.activity
+615,places to see in Nice,find.accommodation
+616,show me fitness events in Nice this month,find.event
+617,art gallery in Nice,find.poi
+618,in cannes,find.alternatives
+619,show me tobac in NICE,Default Fallback Intent
+620,show me parties in NICE,find.event
+621,this september,find.event
+622,november,find.alternatives
+623,Italian restaurants near me,find.restaurant
+624,show more,Default Fallback Intent
+625,find night clubs in NICE,find.activity
+626,what is going on in nice,find.generic
+627,what is going in nice now,find.generic
+628,events in Nice today,find.event
+629,show me all day tours in Beausoleil,find.activity
+630,show me events in Beausoleil,find.event
+631,this month,find.event
+632,hi,Default Welcome Intent
+633,Hi,Default Welcome Intent
+634,Hi,Default Welcome Intent
+635,Hi,Default Welcome Intent
+636,Could you book a room in Montreal,find.accommodation
+637,Montréal,find.accommodation
+638,Tokyo,find.accommodation
+639,New york,find.accommodation
+640,Cannes,find.accommodation
+641,Hi,Default Welcome Intent
+642,hello ,Default Welcome Intent
+643,musée,Default Fallback Intent
+644,Museum,find.poi
+645,can you show me best hotels around me ?,find.accommodation
+646,new york,find.poi
+647,Paris,find.poi
+648,antibes,find.poi
+649,can you tell me what is happening today in Nice,find.event
+650,Nice,find.event
+651,today,find.event
+652,what happens this week end ?,find.event
+653,Antibes,find.event
+654,Hi,Default Welcome Intent
+655,hi ,Default Welcome Intent
+656,what can i do in Nice today,find.generic
+657,show me events,find.event
+658,Nice,find.event
+659,today,find.event
+660,what can i do in cannes this month,find.generic
+661,events in cannes,find.event
+662,this month,find.event
+663,find food in nice,find.restaurant
+664,more,find.more
+665,Hi,Default Welcome Intent
+666,check for events in monaco this sunday,find.event
+667,this month,find.alternatives
+668,show more,find.more
+669,museums in cannes,find.poi
+670,in nice,find.alternatives
+671,find play area for kids in Nice,find.event
+672,this weekend,find.event
+673,find a pet friendly place in Nice,Default Fallback Intent
+674,find plays area for pets,find.event
+675,Nice,find.event
+676,today,find.event
+677,Hi,Default Welcome Intent
+678,hi,Default Welcome Intent
+679,i need a place to stay in Monaco this weekend,find.accommodation
+680,eatouts in monaco for dinner tonight,find.alternatives
+681,dinner in monaco tonight,find.alternatives
+682,restaurants in monaco,find.restaurant
+683,eat outs in Nice,find.restaurant
+684,eat outs in monaco,find.restaurant
+685,more,find.more
+686,find amusement parks in NICE ,find.activity
+687,find water place in Nice,find.poi
+688,Hi,Default Welcome Intent
+689,Hi,Default Welcome Intent
+690,Hi,Default Welcome Intent
+691,Hi,Default Welcome Intent
+692,find events in NICE this weekend,find.event
+693,what can i do in NICE,find.generic
+694,local stores in nice,Default Fallback Intent
+695,shopping in nice,find.shopping
+696,what can i do in NICE today,find.generic
+697,attractions,Default Fallback Intent
+698,show me attractions,Default Fallback Intent
+699,show me attractions in NICE,Default Fallback Intent
+700,show me places in NICE,find.poi
+701,show me sight seeings in NICE ,find.more
+702,sight seeings in cannes,leave.positive
+703,show me shops in Nice,find.shopping
+704,show me stores in Nice,Default Fallback Intent
+705,hi,Default Welcome Intent
+706,sight seeings in Nice,leave.positive
+707,places to see in Nice,find.accommodation
+708,see ya,leave.positive
+709,seeing,leave.positive
+710,Hi,Default Welcome Intent
+711,Hi,Default Welcome Intent
+712,events in Nice,find.event
+713,today,find.event
+714,bye bye,leave.positive
+715,goodbye,leave.positive
+716,see you,leave.positive
+717,see you later,leave.positive
+718,Great  thank you ,leave.positive
+719,okshut down,leave.positive
+720,Farewell,leave.positive
+721,ok bye,leave.positive
+722,I'm done,leave.positive
+723,done bye,leave.positive
+724,adiyos amigo,leave.positive
+725,fine I'm leaving now,leave.positive
+726,chow,leave.positive
+727,see ya,leave.positive
+728,enough for today,leave.positive
+729,thanks for the help,leave.positive
+730,my search is done ,leave.positive
+731,thanks for search,leave.positive
+732,it was a pleasure,leave.positive
+733,great results thanks,leave.positive
+734,end now,leave.positive
+735,thanks end now,leave.positive
+736,my search ends,leave.positive
+737,ok thank you for the help,leave.positive
+738,leave me alone,leave.negative
+739,go away,leave.negative
+740,get lost,leave.negative
+741,get out of there,leave.negative
+742,I'm fed up,leave.negative
+743,I'm tired,leave.negative
+744,Push off,leave.negative
+745,Leave me alone,leave.negative
+746,Leave me alone,leave.negative
+747,Go away,leave.negative
+748,this is dissapointing,leave.negative
+749,this is disappointing,abandon
+750,Get out of there,leave.negative
+751,not good at all,leave.negative
+752,Shut off,leave.negative
+753,Shut down,leave.negative
+754,this is not helping,leave.negative
+755,i'm fed up,leave.negative
+756,you are annoying me,leave.negative
+757,I stop,leave.negative
+758,I will leave,leave.negative
+759,I've had enough,leave.negative
+760,I'm fed up,leave.negative
+761,I can not stand you anymore,leave.negative
+762,I had enough,leave.negative
+763,I have had more than enough,leave.negative
+764,asshole,leave.negative
+765,I'm sick of it,leave.negative
+766,I will slap myslef,leave.negative
+767,I had my dose,leave.negative
+768,thanks for nothing,leave.negative
+769,bot you are stupid,leave.negative
+770,Find hotels with car parking in Nice,find.accommodation
+771,Show events in Nice for this evening,find.event
+772,Show walking tours in Nice,find.activity
+773,Show me sports activity in nice,find.activity
+774,Show me night activities in cannes,find.activity
+775,Show me  only  Night events in Nice on December,find.event
+776,show me sports events in Nice this December,find.event
+777,show me museums  in Cannes,find.poi
+778,theme park in antibes,find.activity
+779,Hi,Default Welcome Intent
+780,finally no,abandon
+781,stop,abandon
+782,Ok in fact no,abandon
+783,ok cancel,abandon
+784,not good,abandon
+785,not what i want,abandon
+786,not what i asked,abandon
+787,reset,abandon
+788,reboot,abandon
+789,resetting,abandon
+790,abort,abandon
+791,new request,abandon
+792,new sequence,abandon
+793,restart,abandon
+794,start over,abandon
+795,resume,abandon
+796,give up,abandon
+797,not interested,abandon
+798,revert,abandon
+799,Boring change the plan,abandon
+800,find something else,abandon
+801,other plans,abandon
+802,change of plans,abandon
+803,never mind thanks,abandon
+804,hate this plan find something else,abandon
+805,No this plan,abandon
+806,Not this plan,abandon
+807,start again,abandon
+808,from the beginning,abandon
+809,lets start again,abandon
+810,ok I lost it,abandon
+811,revert my request,abandon
+812,check form the start,abandon
+813,replay,abandon
+814,no options ok start again,abandon
+815,Find events in Nice this month,find.event
+816,hi,Default Welcome Intent
+817,find events in Nice this month,find.event
+818,cannes,find.alternatives
+819,monacoo,Default Fallback Intent
+820,find events in Nice this month,find.event
+821,cannes,find.alternatives
+822,monacco,Default Fallback Intent
+823,Hi,Default Welcome Intent
+824,Bonjour,Default Welcome Intent
+825,je voudrais des événements,find.event
+826,Français,find.event
+827,Nice,find.event
+828,this month,find.event
+829,ce mois-ci,find.event
+830,ce mois,find.event
+831,French,Default Fallback Intent
+832,est-ce que tu peux me montrer les activités,find.activity
+833,Nice,find.activity
+834,recommence,abandon
+835,je voudrais manger dans un bon resto,Default Fallback Intent
+836,je voudrais manger dans un restaurant,find.restaurant
+837,Cannes,find.restaurant
+838,je voudrais manger dans un bon restaurant,find.restaurant
+839,Nice,find.restaurant
+840,Hi,Default Welcome Intent
+841,find events in Nice this month,find.event
+842,cannes,find.alternatives
+843,monacco,Default Fallback Intent
+844,montre moi en d'autres,Default Fallback Intent
+845,plus,Default Fallback Intent
+846,adresse du musée Mamac,find.poi
+847,Nice,find.poi
+848,where is the Mamac museum ? ,find.poi
+849,Nice,find.poi
+850,Hi,Default Welcome Intent
+851,what do you suggest me to do in Nice,find.generic
+852,any suggestions to do in Nice,find.generic
+853,activities,find.activity
+854,nice,find.activity
+855,clubbing in Jean-les-pins,find.activity
+856,what can i do,find.generic
+857,wher can i do shopping,find.shopping
+858,is there any atm near me?,find.shopping
+859,local business next to me,find.alternatives
+860,you are stupid,Default Fallback Intent
+861,any place in nice?,find.poi
+862,any awesome place in nice?,find.poi
+863,Hi,Default Welcome Intent
+864,Hi,Default Welcome Intent
+865,I would like to see zoos in Nice,find.activity
+866,restart,abandon
+867,events,find.event
+868,reboot,abandon
+869,I want to see zoos in Nice,find.activity
+870,I wan to do a cultural tour,find.activity
+871,Nice,find.activity
+872,Hi,Default Welcome Intent
+873,find events in cannes today,find.event
+874,hi,Default Welcome Intent
+875,hi,Default Welcome Intent
+876,find events in cannes today,find.event
+877,nice,find.alternatives
+878,monoco,Default Fallback Intent
+879,find cafe in antibe,find.restaurant
+880,in biot,find.alternatives
+881,cafe in biot,find.restaurant
+882,coffee shops in biot,find.restaurant
+883,in antibes,find.alternatives
+884,Hi,Default Welcome Intent
+885,what can i do in monaco this month,find.generic
+886,check for events in monaco,find.event
+887,this month,find.event
+888,find activity in monaco this month,find.activity
+889,find hotels in antibes,find.accommodation
+890,find hotels with swimming pool in Antibes,find.activity
+891,find all events in Nice this december,find.event
+892,find matches in Nice this december,find.event
+893,find music events in Nice this december,find.event
+894,music events in nice this month,find.event
+895,what can i do in Nice,find.generic
+896,what can i do in Nice,find.generic
+897,what can i do in nice,find.generic
+898,show me city attractions in nice,Default Fallback Intent
+899,show me activities to do in nice,find.activity
+900,show me activities in nice,find.activity
+901,shopping in nice,find.shopping
+902,Hi,Default Welcome Intent
+903,Bonjour je voudrais suivre des cours de conduite,Default Welcome Intent
+904,Hi,Default Welcome Intent
+905,Hi,Default Welcome Intent
+906,restaurant,find.restaurant
+907,nice,find.restaurant
+908,Hi,Default Welcome Intent
+909,hi,Default Welcome Intent
+910,Do you love lionel some?,Default Fallback Intent
+911,Fuck u,insult
+912,sorry for that,Default Fallback Intent
+913,sorry,Default Fallback Intent
+914,why so stupid,insult
+915,wow u scared me,Default Fallback Intent
+916,wow you scared me,Default Fallback Intent
+917,say that again?,abandon
+918,what can you do?,find.generic
+919,yes events please,find.event
+920,nice,find.event
+921,tomorrow,find.event
+922,events in antibes,find.event
+923,today,find.event
+924,events in nice this weekend,find.event
+925,Hi,Default Welcome Intent
+926,hi guys\,Default Welcome Intent
+927,tinder events,find.event
+928,Nice,find.event
+929,Hi,Default Welcome Intent
+930,eurecom,Default Fallback Intent
+931,what do you know,find.generic
+932,subway near me,Default Fallback Intent
+933,restaurants near me,find.restaurant
+934,pwd,Default Fallback Intent
+935,what do you want from me,find.generic
+936,shopping,find.shopping
+937,antibes,find.shopping
+938,ice cream,find.restaurant
+939,antibes,find.restaurant
+940,Hi,Default Welcome Intent
+941,hi,Default Welcome Intent
+942,find events in nice this month,find.event
+943,hi,Default Welcome Intent
+944,find activity in nice,find.activity
+945,cannes,find.alternatives
+946,manaco,Default Fallback Intent
+947,find events in Monaco,find.event
+948,hi,Default Welcome Intent
+949,what can i do in NICE tonight,find.generic
+950,shopping in nice,find.shopping
+951,cafe shops in nice,find.shopping
+952,events in nice,find.event
+953,today,find.event
+954,find events in nice on december,find.event
+955,find music events in Nice december,find.event
+956,chaplet in Nice ,find.alternatives
+957,parks in monaco,find.poi
+958,in cannes,find.alternatives
+959,find activity in grasse,find.activity
+960,find events in monaco,find.event
+961,this december,find.event
+962,show me performing Acts events in Monaco this december,find.event
+963,show me sports events in monaco this december,find.event
+964,find music events in cannes,find.event
+965,this month,find.event
+966,find all events in cannes,find.event
+967,this mnonth,find.event
+968,this month,find.event
+969,Hi ,Default Welcome Intent
+970,check for place to stay in monaco,find.accommodation
+971,any events happening tonight,find.event
+972,monaco,find.event
+973,museums ,find.poi
+974,monaco,find.poi
+975,show events in Nice this month,find.event
+976,in cannes,find.alternatives
+977,in monaco,find.alternatives
+978,grasse,find.alternatives
+979,antibes,find.alternatives
+980,nice,find.alternatives
+981,cannes,find.alternatives
+982,find comedy event in cannes,find.event
+983,this month,find.event
+984,show only weekend events in cannes this month,find.event
+985,Hi,Default Welcome Intent
+986,hi,Default Welcome Intent
+987,find museums in cannes,find.poi
+988,in nice,find.alternatives
+989,Hi,Default Welcome Intent
+990,Can I have the information concerning museum in Antibes,find.poi
+991,Ok thank U,leave.positive
+992,scuba diving,find.activity
+993,antibes,find.activity
+994,hi,Default Welcome Intent
+995,hi,Default Welcome Intent
+996,hi,Default Welcome Intent
+997,hi,Default Welcome Intent
+998,hi,Default Welcome Intent
+999,hi,Default Welcome Intent
+1000,hi,Default Welcome Intent
+1001,hi,Default Welcome Intent
+1002,hi,Default Welcome Intent
+1003,hi,Default Welcome Intent
+1004,hi,Default Welcome Intent
+1005,Hi,Default Welcome Intent
+0,Hi,Default Welcome Intent
+1,Hi,Default Welcome Intent
+2,hi,Default Welcome Intent
+3,events,find.event
+4,Hi,Default Welcome Intent
+5,i dont know,Default Fallback Intent
+6,i don't know,Default Fallback Intent
+7,?,Default Fallback Intent
+8,Hi,Default Welcome Intent
+9,trail,find.poi
+10,hiking trail,find.poi
+11,Hi,Default Welcome Intent
+12,events today in nice,find.event
+13,events in antibes tomorrow,find.event
+14,where to dive in french riviera,find.activity
+15,grasse,find.activity
+16,Hi,Default Welcome Intent
+17,events in Nice,find.event
+18,tomorrow,find.event
+19,fuck you,insult
+20,Hi,Default Welcome Intent
+21,Hi,Default Welcome Intent
+22,show me some events for tomorrow,find.event
+23,  show me some events for tomorrow,find.event
+24,Hi,Default Welcome Intent
+25,find an activity in nice for today,find.activity
+26,hi,Default Welcome Intent
+27,what are the category,Default Fallback Intent
+28,what is interesting,find.generic
+29,hi,Default Welcome Intent
+30,suggest me something to do,find.generic
+31,propose me something to do,find.generic
+32,anything to do,find.generic
+33,I want to go out today,find.generic
+34,I'm bored what do you suggest,find.generic
+35,how can you help ,find.generic
+36,propose me something to do in Nice this december,find.generic
+37,events ,find.event
+38,nice,find.address
+39,events in nice this month,find.event
+40,events in nice this december,find.event
+41,music event in Cannes,find.event
+42,this month,find.event
+43,Hi,Default Welcome Intent
+44,start my vacation plan,find.generic
+45,lets plan my vacation ,find.generic
+46,check for events in Nice,find.event
+47,this december,find.event
+48,Hi,Default Welcome Intent
+49,Hi,Default Welcome Intent
+50,I'd like music events in Cannes this month,find.event
+51,show me concerts in Nice,find.event
+52,this year,find.event
+53,show events in Nice this year,find.event
+54,more,find.more
+55,what about classical music this year in Nice ? ,find.alternatives
+56,Hi,Default Welcome Intent
+57,Hi,Default Welcome Intent
+58,Hi,Default Welcome Intent
+59,hi,Default Welcome Intent
+60,hi,Default Welcome Intent
+61,hi,Default Welcome Intent
+62,hi,Default Welcome Intent
+63,hi,Default Welcome Intent
+64,hi,Default Welcome Intent
+65,hi,Default Welcome Intent
+66,show me museums in cannes,find.poi
+67,Show events in Nice,find.event
+68,this december,find.event
+69,Hi,Default Welcome Intent
+70,help me,Default Fallback Intent
+71,how can you help me,find.generic
+72,what can you do,find.generic
+73,check for events in Nice this evening,find.event
+74,show me all day events in Nice in december,find.event
+75,I want to do an activity in Nice today,find.activity
+76,show me something to do in cannes today,find.activity
+77,I'm bored suggest me something to do in monaco today,find.generic
+78,I'm bored suggest me some activity to do in monaco today,find.activity
+79,show more,find.more
+80,how about next month,find.alternatives
+81,activity in Nice this weekend,find.activity
+82,what can you show me in Nice today,find.generic
+83,im hungry i need to eat,find.restaurant
+84,nice,find.address
+85,show more,find.restaurant
+86,find me some shops in Nice,find.shopping
+87,any place to shop in nice,find.shopping
+88,any place to shop in monaco,find.shopping
+89,show more,find.more
+90,shopping in cannes,find.shopping
+91,check for hotel in cannes,find.accommodation
+92,check for hotel in cannes,find.accommodation
+93,in nice,discover.city
+94,Hi,Default Welcome Intent
+95,what can i do in Nice,find.generic
+96,check for attractions,Default Fallback Intent
+97,what can i do in nice,find.generic
+98,check for some activities,find.activity
+99,Hi,Default Welcome Intent
+100,tell me about Nice,find.address
+101,where is 245 Route des Lucioles Valbonne,Default Fallback Intent
+102,Hi,Default Welcome Intent
+103,find museums in cannes,find.poi
+104,check for museums in cannes,find.poi
+105,find museums in Nice,find.poi
+106,hi ,Default Welcome Intent
+107,Hi,Default Welcome Intent
+108,hey find some events in Nice for next week,find.event
+109,is there any cool italian restaurants nearby?,find.restaurant
+110,what about Cannes,find.address
+111,any cool italian restaurant in Cannes,find.restaurant
+112,italian restaurant in Antibes please,find.restaurant
+113,Nice,find.address
+114,italian restaurant in Nice,find.restaurant
+115,restaurants in Nice,find.restaurant
+116,restaurants in Cannes,find.restaurant
+117,Hi,Default Welcome Intent
+118,Hi,Default Welcome Intent
+119,find some events in Nice for next week please,find.event
+120,show me some restaurants in Cannes,find.restaurant
+121,Hi,Default Welcome Intent
+122,what is your name,Default Fallback Intent
+123,what can i do in NICE Today,find.generic
+124,find events,find.event
+125,nice,find.address
+126,find events ,find.event
+127,today,find.event
+128,cannes,find.address
+129,monaco,find.address
+130,events in cannes,find.event
+131,today,find.event
+132,find activity for my kids in nice today,find.activity
+133,what can i do in Nice,find.generic
+134,events ,find.event
+135,nice,find.address
+136,events,find.event
+137,today ,find.event
+138,check for hotels in cannes,find.accommodation
+139,check for hotels in cannes,find.accommodation
+140,find place to stay in monaco,find.poi
+141,find a night stay in grasse,find.accommodation
+142,find a night stay in grasse,find.accommodation
+143,find more,find.more
+144,find night stay in eze,find.accommodation
+145,find night stay in eze,find.accommodation
+146,st tropez,find.address
+147,events st tropez,find.event
+148,this month,find.event
+149,find events in cannes,find.event
+150,this month,find.event
+151,find a place to eat in nice,find.restaurant
+152,i feel like eating,find.restaurant
+153,eze,find.restaurant
+154,place to eat in Eze,find.restaurant
+155,nice,find.address
+156,what can i do in Nice,find.generic
+157,events ,find.event
+158,nice,find.address
+159,Find events in Nice,find.event
+160,today,find.event
+161,what can i do in cannes ,find.generic
+162,events in cannes,find.event
+163,today,find.event
+164,what can i do in Nice,find.generic
+165,events,find.event
+166,Nice,find.address
+167,what can i do in Cannes,find.generic
+168,events,find.event
+169,cannes,find.event
+170,today,find.event
+171,looking for place to have dinner in Nice today,find.poi
+172,what are the activities in St TROPEZ,find.activity
+173,find shops in eze,find.shopping
+174,cannes,find.address
+175,find shops in eze,find.shopping
+176,cannes,find.address
+177,what are all the visiting spots in Nice,find.poi
+178,parks in Nice,find.address
+179,visiting spots in Nice,find.poi
+180,visiting spots in cannes,find.poi
+181,visiting spots in grasse,find.poi
+182,visiting spots in manaco,find.poi
+183,visiting spots in Monaco,find.poi
+184,what can i see in nice,discover.city
+185,tel me about nice,find.address
+186,what can i see in cannes,discover.city
+187,what can i see in monaco,discover.city
+188,what can i see in eze,discover.city
+189,what can i see in grasse,discover.city
+190,tell me about grasse,find.address
+191,tell me about Nice,find.address
+192,tell me about grasse,find.address
+193,what to check in NICE,Default Fallback Intent
+194,any family activity in Cannes?,find.activity
+195,more,find.more
+196,any night events in St tropez,find.event
+197,find events in st tropez,find.event
+198,today,find.event
+199,find events in st tropes this month,find.event
+200,st tropez,find.event
+201,events in Nice this month,find.event
+202,find more,find.more
+203,find events for kids in nice this month,find.event
+204,malls in nice,find.shopping
+205,shops in nice,find.shopping
+206,i want to do shopping Nice,find.shopping
+207,show more,find.more
+208,show more,find.more
+209,show more,find.more
+210,show more,find.more
+211,not happy with the results,find.more
+212,not good,leave.negative
+213,find bakery in Nice,find.restaurant
+214,Hi,Default Welcome Intent
+215,Hi,Default Welcome Intent
+216,I want some information concerning Antibes,discover.city
+217,hi ,Default Welcome Intent
+218,check for events in Nice,find.event
+219,today,Default Fallback Intent
+220,find events for today in Nice,find.event
+221,more events,find.event
+222,antibes scuba,find.shopping
+223,antibes scuba diving,find.activity
+224,hi ,Default Welcome Intent
+225,what can i do in nice today,find.generic
+226,show events in Nice,find.event
+227,today,find.event
+228,place to eat in Nice,find.restaurant
+229,find shopping in nice,find.shopping
+230,Hi,Default Welcome Intent
+231,I need events close to me,find.address
+232,check activities around me,find.activity
+233,check events close to me,find.address
+234,I need activities close to me,find.address
+235,hi,Default Welcome Intent
+236,hi,Default Welcome Intent
+237,Hi,Default Welcome Intent
+238,Hi,Default Welcome Intent
+239,museum in Cannes,find.poi
+240,museum in Nice,find.poi
+241,Hi,Default Welcome Intent
+242,show museums in Nice,find.poi
+243,show museums in Cannes,find.poi
+244,show museums in Cannes,find.poi
+245,  show museums in Cannes,find.poi
+246,  show museums in Cannes,find.poi
+247,  show museums in Cannes,find.poi
+248,  show museums in Cannes,find.poi
+249,Hi,Default Welcome Intent
+250,I need event close to me ,find.event
+251,this weekend,find.event
+252,hi,Default Welcome Intent
+253,shopping,find.shopping
+254,nice,find.shopping
+255,hi,Default Welcome Intent
+256,activities,find.activity
+257,nice,find.activity
+258,hi,Default Welcome Intent
+259,places,find.poi
+260,nice,find.poi
+261,hi,Default Welcome Intent
+262,Hi,Default Welcome Intent
+263,hi,Default Welcome Intent
+264,hi,Default Welcome Intent
+265,hi,Default Welcome Intent
+266,hi,Default Welcome Intent
+267,hi,Default Welcome Intent
+268,hi,Default Welcome Intent
+269,hi,Default Welcome Intent
+270,hi,Default Welcome Intent
+271,hi,Default Welcome Intent
+272,hi,Default Welcome Intent
+273,find local stores ,find.shopping
+274,nice,find.shopping
+275,what can i do in nice,find.generic
+276,check for events,find.event
+277,nice,find.event
+278,hi,Default Welcome Intent
+279,show me sightseeing in nice,find.poi
+280,show me activitiy ,find.activity
+281,nice,find.activity
+282,check for city attractions,find.poi
+283,nice,find.poi
+284,find accommodation,find.accommodation
+285,hi,Default Welcome Intent
+286,nice,find.accommodation
+287,nice,find.accommodation
+288,find museums in cannes,find.poi
+289,Hi,Default Welcome Intent
+290,events in antibes,find.event
+291,today,find.event
+292,nice,find.address
+293,events in nice today,find.event
+294,only kids,leave.negative
+295,Hi,Default Welcome Intent
+296,tell me what to do in nice today,find.generic
+297,activities,find.activity
+298,which concert is it today in nice,find.event
+299,tomorrow,find.alternatives
+300,this month,find.alternatives
+301,give me music event this month,find.event
+302,nice,find.event
+303,events in nice today,find.event
+304,events in nice next fridasy,find.event
+305,next friday,find.event
+306,sport in nice today,find.activity
+307,Hi,Default Welcome Intent
+308,Hi can you show me some events around me ?,find.event
+309,this month,find.event
+310,the next month,find.alternatives
+311,show me events in Nice next month,find.event
+312,Hi,Default Welcome Intent
+313,show me some events in Nice,find.event
+314,next month,find.event
+315,what are the events in Antibes ?,find.event
+316,today,find.event
+317,next month,find.alternatives
+318,in Nice ?,discover.city
+319,find me some events in Nice next month ,find.event
+320,Hi,Default Welcome Intent
+321,find events close to me,find.event
+322,this weekend,find.event
+323,find events close to me,find.event
+324,next week,find.event
+325,Hi,Default Welcome Intent
+326,check some events in Cannes next months,find.event
+327,check some events in Antibes next month,find.event
+328,check some events in Juan les pins this week,find.event
+329,check some events in Juan les pins this month,find.event
+330,show me events close to me,find.event
+331,this year,find.event
+332,I need events close to me,find.event
+333,this year,find.event
+334,I need events close to me,find.event
+335,next month,find.event
+336,Hi,Default Welcome Intent
+337,Hi,Default Welcome Intent
+338,Hi,Default Welcome Intent
+339,find events in Cannes,find.event
+340,tomorrow,find.event
+0,Hi,Default Welcome Intent
+1,Hi,Default Welcome Intent
+2,hallo,Default Fallback Intent
+3,shut up,insult
+4,stupid,insult
+5,السلام عليكم,Default Fallback Intent
+6,من أنت ؟؟,Default Fallback Intent
+7,a greeting ,Default Fallback Intent
+8,shallom,Default Fallback Intent
+9,hallo,Default Fallback Intent
+10,hello,Default Welcome Intent
+11,salut,Default Fallback Intent
+12,bonjour,Default Welcome Intent
+13,hi,Default Welcome Intent
+14,new events in nice ? ,find.event
+15,demain,find.event
+16,tomorrow,find.event
+17,Hi,Default Welcome Intent
+18,hola,Default Welcome Intent
+19,salut,Default Fallback Intent
+20,hey,Default Welcome Intent
+21,hi,Default Welcome Intent
+22,guten tag,Default Welcome Intent
+23,bjr,Default Fallback Intent
+24,bonjour,Default Welcome Intent
+25,bondoir,Default Fallback Intent
+26,bonsoir,Default Fallback Intent
+27,what can I do today in Antibes,find.generic
+28,events,find.event
+29,Antibes,find.event
+30,what can I do today in Antibes ?,find.generic
+31,events,find.event
+32,today,find.event
+33,Nice,find.address
+34,events in Nice,find.event
+35,today,find.event
+36,what time is it?,Default Fallback Intent
+37,what is the date time?,Default Fallback Intent
+38,hi,Default Welcome Intent
+39,events in Nice tomorrow,find.event
+40,Hi,Default Welcome Intent
+41,hello,Default Welcome Intent
+42,tell me a joke,Default Fallback Intent
+43,what activities in paris,find.activity
+44,paris,find.activity
+45,nice,find.activity
+46,Hi,Default Welcome Intent
+47,what events in nice today,find.event
+48,what events in nice today,find.event
+49,hello,Default Welcome Intent
+50,restaurants,find.restaurant
+51,nice,find.restaurant
+52,give me events,find.event
+53,Nice,find.event
+54,events,find.event
+55,nice,find.event
+56,09/11/2018,find.event
+57,12:00,find.event
+58,ok,Default Fallback Intent
+59,yes,Default Fallback Intent
+60,events,find.event
+61,nice,find.event
+62,tomorrow,find.event
+63,Hi,Default Welcome Intent
+64,Hi,Default Welcome Intent
+65,events in monaco today,find.event
+66,events in nice today,find.event
+67,Hi,Default Welcome Intent
+68,what events,find.event
+69,paris,find.event
+70,paris,find.event
+71,paris,find.event
+72,Hi,Default Welcome Intent
+73,events,find.event
+74,nice,find.event
+75,tomorrow,find.event
+76,Hi,Default Welcome Intent
+77,Could you please suggest me an event taking place in Nice tomorrow?,find.poi
+78,event in Nice,find.event
+79,tomorrow,find.event
+80,Hi,Default Welcome Intent
+81,Hi,Default Welcome Intent
+82,find event in Nicy,find.event
+83,Hi,Default Welcome Intent
+84,Antibes activities,find.activity
+85,Hi,Default Welcome Intent
+86,Hi,Default Welcome Intent
+87,Hi,Default Welcome Intent
+88,what is the weather tody,weather
+89,what to do today,find.generic
+90,sport,find.activity
+91,antibes,find.activity
+92,Hi,Default Welcome Intent
+93,What to do in ANTIBES today,find.generic
+94,Shopping,find.shopping
+95,Antibes,find.shopping
+96,give me a vegetarian restaurant in antibes,find.restaurant
+97,where to rent a bicycle in antibes,Default Fallback Intent
+98,rent a moto in nice,discover.city
+99,concerts in nice today,find.event
+100,concerts in french riviera,find.event
+101,cannes,find.event
+102,any,find.event
+103,no,find.event
+104,tofay,find.event
+105,today,find.event
+106,snow in valberg,discover.city
+107,snow in auron,discover.city
+108,road situation for valberg,find.poi
+109,give me the address of modern art museum in nice,find.poi
+110,what is the best pizza in antibes,discover.city
+111,pizza antibes,find.shopping
+112,pizza restaurant in nice,find.restaurant
+113,Hi,Default Welcome Intent
+114,Hi,Default Welcome Intent
+115,Hi,Default Welcome Intent
+116,Hi,Default Welcome Intent
+117,Hi,Default Welcome Intent
+118,Hi,Default Welcome Intent
+119,Events in Nice,find.event
+120,Events in Nice,find.event
+121,hello ?,Default Welcome Intent
+122,Nice,find.address
+123,Today,find.alternatives
+124,events in Nice,find.event
+125,Antibes,find.alternatives
+126,Any events ?,find.event
+127,Nice,find.event
+128,Hi,Default Welcome Intent
+129,Hi,Default Welcome Intent
+130,what's happen today ?,find.event
+131,nice,find.address
+132,what to do today in nice,find.generic
+133,activities,find.activity
+134,Hi,Default Welcome Intent
+135,Hi,Default Welcome Intent
+136,Bonjour,Default Welcome Intent
+137,discover Monaco,discover.city
+138,discover Nice,discover.city
+139,Hi,Default Welcome Intent
+140,hi,Default Welcome Intent
+141,hi,Default Welcome Intent
+142,find events,find.event
+143,Nice,find.event
+144,find events in Nice this month,find.event
+145,cannes,find.alternatives
+146,monacco,Default Fallback Intent
+147,Hi,Default Welcome Intent
+0,Hi,Default Welcome Intent
+1,Hi,Default Welcome Intent
+2,Hi,Default Welcome Intent
+3,Hi,Default Welcome Intent
+4,Hi,Default Welcome Intent
+5,could you please give me events in Nice this month ? ,find.event
+6,and in Canbnes ?,find.alternatives
+7,cannes ? ,find.alternatives
+8,monacco,Default Fallback Intent
+9,monaco,find.alternatives
+10,and in st trop ?,find.alternatives
+11,i would like to do a cultural-tours,find.poi
+12,Nice,find.poi
+13,can you show me football-games,find.generic
+14,can you show me theater-play,find.generic
+15,can you show me theater play,find.event
+16,reboot,abandon
+17,can you show me theater play,find.event
+18,show me events,find.event
+19,Hi,Default Welcome Intent
+20,show events in Nice for tomorrow,find.event
+21,reboot,abandon
+22,show me events,find.event
+23,nice,find.event
+24,this month,find.event
+25,can you show me theater plays ? ,find.event
+26,Nice,find.event
+27,this month,find.event
+28,can you show me theater-plays ? ,find.generic
+29,reboot,abandon
+30,reboot,abandon
+31,i would like to see theater,find.activity
+32,Nice,find.activity
+33,I would like to see theaters,find.activity
+34,Nice,find.activity
+35,where to find playground,find.activity
+36,Nice,find.activity
+37,where to find playgrounds,find.activity
+38,Nice,find.activity
+39,cannes,find.alternatives
+40,ok can you show me football meeting ?,find.event
+41,Nice,find.event
+42,this month,find.event
+43,can you show me football meetings ?,find.event
+44,Nice,find.event
+45,This month,find.event
+46,ok can you show me football meetings ?,find.event
+47,Nice,find.event
+48,this month,find.event
+49,show me events in Nice this month,find.event
+50,show me activities,find.activity
+51,Nice,find.activity
+52,anything to do in grasse ? ,find.generic
+53,activities,find.activity
+54,what can i do in Nice ? ,find.generic
+55,food,find.restaurant
+56,in cannes ?,discover.city
+57,show me theater plays in Nice,find.event
+58,this month,find.event
+59,show me events in Cannes,find.event
+60,this month,find.event
+61,show me sport meetings in Nice this month,find.event
+62,and for Cannes ?,find.alternatives
+63,what can i do in Cannes today ? ,find.generic
+64,activities,find.activity
+65,events,find.event
+66,this month,find.event
+67,what can I do in Nice,find.generic
+68,sightseeings,find.poi
+69,Hi,Default Welcome Intent
+70,show me events in Nice please,find.event
+71,this month,find.event
+72,Hi,Default Welcome Intent
+73,show me events in Cannes,find.event
+74,how can you help,find.generic
+75,propose all you can do,find.generic
+76,reboot,abandon
+77,how can you help,find.generic
+78,places,find.address
+79,file moi de l'info,find.generic
+80,lieux,Default Fallback Intent
+81,how can you help,find.generic
+82,reboot,abandon
+83,how can you help,find.generic
+84,events,find.event
+85,reboot,abandon
+86,can you advice me please,find.generic
+87,events,find.event
+88,how can you help ? ,find.generic
+89,how can you help ?,find.generic
+90,how can you help,find.generic
+91,Hi,Default Welcome Intent
+92,What can I do this evening in antibes ?,find.generic
+93,Tell me about évents...,discover.city
+94,Tell me what i can do today in Nice,find.generic
+95,Restaurants only,find.restaurant
+96,What about events ?,find.event
+97,Tonight,find.event
+98,Hi,Default Welcome Intent
+99,I want to visit antibes,find.poi
+100,Évents in antibes,find.alternatives
+101,Whats inters Ting in nice ,discover.city
+102,Events ,find.event
+103,Nice,find.event
+104,Today,find.event
+105,Hi,Default Welcome Intent
+106,tell me about Nice,discover.city
+107,what can i do in Nice ?,find.generic
+108,events,find.event
+109,this month,find.event
+110,shops in Eze,find.shopping
+111,in cannes,discover.city
+112,how can you help ? ,find.generic
+113,what can you advice me on?,find.generic
+114,hello,Default Welcome Intent
+115,je veux sortir,find.generic
+116,événements,find.event
+117,today,find.event
+118,reboot,Default Fallback Intent
+119,recommence,abandon
+120,montre moi des événements pour vendredi soir,find.event
+121,Nice,find.event
+122,more,Default Fallback Intent
+123,plus,find.more
+124,more,Default Fallback Intent
+125,plus,find.more
+126,more,Default Fallback Intent
+127,plus,find.more
+128,plus,find.more
+129,propose moi un truc à faire à Cannes,find.generic
+130,événements,find.event
+131,today,find.event
+132,aujourd'hui,find.event
+133,show me events in Nice for next friday,find.event
+134,more,find.more
+135,show me events at saint etienne de tinnée next friday,find.event
+136,show me events,find.event
+137,friday,find.event
+138,show me events in Mougins on friday,find.event
+139,show me events in SAINT-ÉTIENNE-DE-TINÉE on friday,find.alternatives
+140,Hi,Default Welcome Intent
+141,Hi,Default Welcome Intent
+142,Hi,Default Welcome Intent
+143,Hi,Default Welcome Intent
+144,Hi,Default Welcome Intent
+145,hi,Default Welcome Intent
+146,yes i would like an events in antibes,find.event
+147,13 decembre,find.event
+148,Hi,Default Welcome Intent
+149,Hi,Default Welcome Intent
+150,Hi,Default Welcome Intent
+151,slopes in Auron,discover.city
+152,slopes in Auron,slopes
+153, give me directions from nearby to Auron station,itinerary_to_auron_station
+154,any lifts available?,ski_lifts_ski_area
+155,is there snow in Auron?,state_of_snow
+156,when does the station of Auron open?,Default Fallback Intent
+157,when does Auron open?,Default Fallback Intent
+158,how is the road to Auron station?,access_to_auron_station
+159,can Auron station be accessed without chains?,special_equipments
+160,find tariffs of Auron station,tariffs_and_package
+161,Hi,Default Welcome Intent
+162,Hi,Default Welcome Intent
+163,find events in Nice for tomorrow,find.event
+164,Hi,Default Welcome Intent
+165,hi,Default Welcome Intent
+166,quel est l'état de la route pour aller à Auron ? ,access_to_auron_station
+167,what is the price for the ski pass ?,tariffs_and_package
+168,donne moi l'itinéraire pour aller à auron,find.generic
+169,do i need chains?,special_equipments
+170,shiow me accommodation in front of ski slopes,slopes
+171,Hi,Default Welcome Intent
+172,find events in Nice for tomorrow,
+173,Cannes,
+174,Monaco,
+175,what about tomorrow,
+176,nice,
+177,Hi,Default Welcome Intent
+178,Hi,Default Welcome Intent
+179,who are you?,Default Fallback Intent
+180,reset,abandon
+181,I'm boring i would like to see what's happening around me,find.poi
+182,reset,abandon
+183,show me events near me,find.event
+184,next week,find.event
+185,Hi,Default Welcome Intent
+186,show me events around me,find.event
+187,next week,find.event
+188,Hi,Default Welcome Intent
+189,show me events around me,find.event
+190,next week,find.event
+191,I'm boring show me events around me ,find.event
+192,nexte week,find.event
+193,what's happening near me ?,Default Fallback Intent
+194,reset,abandon
+195,what's happening near me ?,Default Fallback Intent
+196,find events nearby,find.event
+197,what's happenen near me,discover.city
+198,what's happening near me,Default Fallback Intent
+199,is there any event near me ?,find.event
+200,next week,find.event
+201,I feel like to listen good music is there any music festival around me ? ,find.event
+202,next week,find.event
+203,show me events in Nice next month,find.event
+204,show me events tomorrow in Nice,find.event
+205,more,Default Fallback Intent
+206,show me more,find.address
+207,tomorrow,find.event
+208,find events in Cannes for tomorrow,find.event
+209,find more,find.more
+210,find events in Nice for tomorrow,find.event
+211,find more,find.more
+212,find events for next week in Nice,find.event
+213,show me events today in Nice,find.event
+214,more,find.more
+215,find events for next week,find.event
+216,Nice,find.event
+217,show me more,find.more
+218,more results,find.more
+219,plus,Default Fallback Intent
+220,that's all?,leave.negative
+221,try again,find.more
+222,show me events today in Nice,find.event
+223,more,find.more
+224,show me events around me,find.event
+225,next week,find.event
+226,next month,find.alternatives
+227,today,find.alternatives
+228,on next sunday,find.alternatives
+229,Hi,Default Welcome Intent
+230,Hi,Default Welcome Intent
+231,Hi,Default Welcome Intent
+232,Hi,Default Welcome Intent
+233,find events in Nice for tomorrow,find.event
+234,Hi,Default Welcome Intent
+235,Give me events in Nice this week-nd,find.event
+236,this week end,find.event
+237,show me tours please,find.activity
+238,St Tropez,find.activity
+239,any events tonight in Nice,
+240,Find events in nice for next week,
+241,Any events tonight in Nice?,
+242,any events tonight in Nice,
