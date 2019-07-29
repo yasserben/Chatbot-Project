@@ -1,5 +1,5 @@
 # DeepPavlov Project
-This directory was created to present my semester project that I made in EURECOM and which focuses on the implementation of a chatbot using the DeepPavlov framework
+This repository is intended to present my semester project that I made in [EURECOM](http://www.eurecom.fr/en) with the [Data Science Departement](http://www.eurecom.fr/ds/) and which focuses on the implementation of a chatbot using the DeepPavlov framework
 
 ## Objectives of the Project
 
@@ -15,14 +15,13 @@ work.
 
 ### Methodology
 
-Throughout this project, we used the official Github page of the framework as well as it’s
-documentation.
+Throughout this project, we used the official [Github repistory](https://github.com/deepmipt/DeepPavlov) of the framework as well as it’s documentation.
 We also asked some questions in the forum which is still in its infancy, and therefore the
 community behind it is still growing and expanding as well.
 the scientific articles and videos allowed us to discover and understand the functioning of
 several new technical concepts which later were very useful for us to understand in details
 the functioning of chatbots.
-We shared all of our files we worked on throughout the project on our Github repository.
+We shared all of our files we worked on throughout the project on this repository.
 
 ## Built With
 
@@ -33,5 +32,5 @@ We shared all of our files we worked on throughout the project on our Github rep
 I would like to extend my gratitude to a number of people whose help was very valuable
 in this semester project. I would like to thank my supervisors Mr.TRONCY Raphael,
 Mr.EHRHART Thibault and Mr.SCHLEIDER Thomas for their meaningful assistance, tire-
-less guidance and patience, and also for reviewing this report in draft form.
+less guidance and patience.
 
