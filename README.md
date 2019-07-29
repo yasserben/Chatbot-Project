@@ -30,7 +30,7 @@ We shared all of our files we worked on throughout the project on this repositor
 ## Acknowledgments
 
 I would like to extend my gratitude to a number of people whose help was very valuable
-in this semester project. I would like to thank my supervisors Mr.TRONCY Raphael,
+in this semester project. I would like to thank my supervisors [Mr.TRONCY Raphael](http://www.eurecom.fr/~troncy/),
 Mr.EHRHART Thibault and Mr.SCHLEIDER Thomas for their meaningful assistance, tire-
 less guidance and patience.
 
