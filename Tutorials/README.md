@@ -1,4 +1,4 @@
-#DeepPavlov Tutorials
+# DeepPavlov Tutorials
 
 This folder contains some of the tutorials I took when I started the project.
 I understood some of NLP concepts through these tutorials, which allowed me to
