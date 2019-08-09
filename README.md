@@ -31,6 +31,6 @@ We shared all of our files we worked on throughout the project on this repositor
 
 I would like to extend my gratitude to a number of people whose help was very valuable
 in this semester project. I would like to thank my supervisors [Mr.TRONCY Raphael](http://www.eurecom.fr/~troncy/),
-Mr.EHRHART Thibault and Mr.SCHLEIDER Thomas for their meaningful assistance, tire-
+[Mr.EHRHART Thibault](http://www.eurecom.fr/fr/people/ehrhart-thibault) and [Mr.SCHLEIDER Thomas](http://www.eurecom.fr/fr/people/schleider-thomas) for their meaningful assistance, tire-
 less guidance and patience.
 
