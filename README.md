@@ -9,8 +9,7 @@ to this topic.
 The project could be divided into three main stages:
 
 1. Getting started with the framework and the development environment.
-2. Understanding and use of the different tutorials available about the DeepPavlov frame-
-work.
+2. Understanding and use of the different tutorials available about the DeepPavlov framework.
 3. Application of the concept seen previously on our own database.
 
 ### Methodology
